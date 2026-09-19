@@ -3,7 +3,9 @@ from scoring import run_full_assessment
 # This test uses the SAME example numbers your teammate worked out by hand,
 # so if this script's output matches, your code is correct:
 #   Infrastructure = 60, Process = 70, People = 50, Data = 65, Security = 55
-#   Expected overall = 60.5, expected level = Level 3 - Defined
+#   Expected overall = 60.5, expected level = Level 4 - Managed
+#   (Locked rule: boundaries are inclusive on the upper end, e.g. score <= 60
+#   is Level 3, so 60.5 falls into the >60-80 band = Level 4.)
 
 fake_responses = {
     # Infrastructure -> sum must be 12 -> (12/20)*100 = 60
@@ -30,4 +32,4 @@ print("Maturity level: ", result["maturityLevel"])
 print("Gaps:           ", result["gaps"])
 
 print()
-print("Expected: overall=60.5, level='Level 3 - Defined'")
+print("Expected: overall=60.5, level='Level 4 - Managed'")
