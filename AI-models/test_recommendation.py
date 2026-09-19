@@ -1,7 +1,7 @@
 from generate_recommendation import generate_recommendation
 
 result = generate_recommendation(
-    business_type="retail",
+    business_type="Micro",
     category_scores={
         "infrastructure": 60.0,
         "process": 70.0,
