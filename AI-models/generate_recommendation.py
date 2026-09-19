@@ -23,6 +23,6 @@ def generate_recommendation(business_type, category_scores, overall_score, matur
     except Exception:
         # In production, log the exception to CloudWatch here so you know
         # how often the fallback is triggering.
-        fallback = get_fallback_recommendation(overall_score, maturity_level, gaps)
+        fallback = get_fallback_recommendation(overall_score, maturity_level, gaps, business_type)
         fallback["source"] = "fallback"
         return fallback
