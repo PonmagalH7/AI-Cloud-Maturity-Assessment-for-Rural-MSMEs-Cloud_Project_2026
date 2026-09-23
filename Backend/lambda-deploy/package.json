@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.1136.0",
+    "uuid": "^9.0.1"
+  }
+}
