@@ -1,0 +1,301 @@
+record_id,archetype,enterprise_size,sector,language,infra_1,infra_2,infra_3,infra_4,infra_5,process_1,process_2,process_3,process_4,process_5,people_1,people_2,people_3,people_4,people_5,data_1,data_2,data_3,data_4,data_5,security_1,security_2,security_3,security_4,security_5
+SYN-0001,1_paper_only,Micro,Retail,Hindi,2,2,1,0,2,2,0,0,1,1,1,2,1,1,1,1,1,1,2,0,3,1,1,1,0
+SYN-0002,1_paper_only,Micro,Handloom and textile,Tamil,1,1,0,1,1,0,0,0,1,0,0,1,1,1,0,0,1,1,1,1,0,0,1,1,1
+SYN-0003,1_paper_only,Micro,Retail,Tamil,2,1,2,2,1,2,2,1,0,3,1,1,2,2,1,1,0,1,1,2,2,2,1,2,0
+SYN-0004,1_paper_only,Micro,Food processing,English,0,0,1,2,0,0,0,1,0,1,1,1,0,0,1,2,1,1,0,1,1,1,1,1,0
+SYN-0005,1_paper_only,Micro,Services,Tamil,1,1,0,1,1,1,1,0,2,0,1,0,0,2,0,0,0,0,0,1,1,0,0,0,1
+SYN-0006,1_paper_only,Micro,Services,Tamil,2,2,1,1,1,2,2,2,1,0,2,2,1,1,2,1,1,2,1,1,1,0,1,1,2
+SYN-0007,1_paper_only,Micro,Food processing,Tamil,1,1,2,1,1,1,0,0,1,1,1,1,2,1,1,0,0,0,1,1,0,1,1,0,1
+SYN-0008,1_paper_only,Micro,Services,Tamil,0,2,2,1,0,1,0,2,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,1
+SYN-0009,1_paper_only,Micro,Retail,Tamil,1,1,1,1,1,0,1,0,0,0,1,2,1,1,1,2,1,1,0,1,0,1,1,1,1
+SYN-0010,1_paper_only,Micro,Agri-based,Tamil,1,1,1,2,1,2,2,3,1,1,0,1,0,0,3,1,2,1,1,1,1,2,1,2,2
+SYN-0011,1_paper_only,Micro,Handloom and textile,English,2,2,1,1,1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+SYN-0012,1_paper_only,Micro,Handloom and textile,English,1,1,1,1,1,2,0,1,1,0,1,2,2,1,1,1,1,1,1,1,0,1,1,1,0
+SYN-0013,1_paper_only,Micro,Agri-based,Tamil,2,0,0,1,0,1,1,1,2,2,0,1,0,1,0,1,1,0,0,0,0,1,1,1,0
+SYN-0014,1_paper_only,Micro,Services,Hindi,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+SYN-0015,1_paper_only,Micro,Handloom and textile,Tamil,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+SYN-0016,1_paper_only,Micro,Retail,English,0,2,0,1,0,0,0,0,1,0,2,0,0,0,1,0,1,1,0,0,1,0,0,0,1
+SYN-0017,1_paper_only,Micro,Retail,English,0,1,0,1,1,1,2,0,0,0,1,1,1,1,0,0,1,2,0,1,0,0,0,1,1
+SYN-0018,1_paper_only,Micro,Retail,English,2,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0
+SYN-0019,1_paper_only,Micro,Small manufacturing,English,1,1,2,2,1,1,1,1,2,2,3,4,2,2,1,1,2,1,1,2,1,2,2,3,2
+SYN-0020,1_paper_only,Micro,Handloom and textile,Tamil,2,1,0,0,0,1,0,0,0,0,1,2,1,2,0,0,0,0,0,1,1,1,0,2,0
+SYN-0021,1_paper_only,Micro,Services,Hindi,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+SYN-0022,1_paper_only,Micro,Handloom and textile,Hindi,0,1,1,1,1,0,1,1,1,1,2,0,1,1,1,0,1,0,1,1,1,1,1,1,1
+SYN-0023,1_paper_only,Micro,Handloom and textile,English,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+SYN-0024,1_paper_only,Micro,Small manufacturing,Tamil,2,1,1,1,1,2,0,2,1,0,0,1,1,1,1,0,1,1,0,2,2,0,0,0,1
+SYN-0025,1_paper_only,Micro,Handloom and textile,Tamil,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+SYN-0026,1_paper_only,Micro,Retail,Tamil,1,0,1,1,0,2,2,1,2,0,1,1,2,1,1,1,1,1,1,0,1,0,1,1,2
+SYN-0027,1_paper_only,Micro,Services,English,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+SYN-0028,1_paper_only,Micro,Small manufacturing,Hindi,1,0,0,1,1,2,0,0,0,0,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1
+SYN-0029,1_paper_only,Micro,Services,Tamil,0,1,2,0,1,0,1,1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0
+SYN-0030,1_paper_only,Micro,Small manufacturing,English,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0
+SYN-0031,1_paper_only,Micro,Agri-based,Tamil,2,2,2,2,1,1,1,2,2,1,1,1,2,1,2,2,2,2,2,2,2,1,2,1,2
+SYN-0032,1_paper_only,Micro,Handloom and textile,Tamil,0,0,0,2,0,1,1,1,2,0,2,1,1,1,0,1,0,1,1,0,1,0,0,0,1
+SYN-0033,1_paper_only,Micro,Food processing,Tamil,2,2,1,1,1,0,1,0,1,0,1,1,1,0,0,0,1,1,0,0,0,1,0,0,0
+SYN-0034,1_paper_only,Micro,Agri-based,Tamil,0,1,0,0,1,0,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+SYN-0035,1_paper_only,Micro,Retail,Tamil,1,0,2,1,1,0,1,0,0,1,1,1,0,0,1,1,1,1,1,0,0,1,0,0,1
+SYN-0036,1_paper_only,Micro,Retail,Tamil,2,2,2,1,0,1,1,2,2,0,1,1,2,2,1,1,1,1,0,1,1,1,0,1,1
+SYN-0037,1_paper_only,Micro,Services,English,0,0,0,1,1,1,1,0,0,0,0,1,2,0,0,0,1,1,0,1,0,1,0,0,1
+SYN-0038,1_paper_only,Micro,Agri-based,Tamil,1,1,1,1,0,2,0,1,0,1,2,2,1,1,0,1,1,1,1,2,1,0,1,2,1
+SYN-0039,1_paper_only,Small,Small manufacturing,English,1,0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,1,0,1,0
+SYN-0040,1_paper_only,Micro,Handloom and textile,Tamil,0,1,2,1,1,1,1,1,2,0,1,1,1,2,1,0,1,1,1,1,1,1,1,2,1
+SYN-0041,1_paper_only,Micro,Small manufacturing,English,0,1,0,0,1,2,0,1,0,1,1,1,1,0,1,1,0,1,1,1,0,1,1,0,1
+SYN-0042,1_paper_only,Micro,Food processing,Tamil,2,1,1,1,0,0,0,1,1,1,1,2,0,0,1,1,0,0,1,1,0,1,1,2,0
+SYN-0043,1_paper_only,Micro,Small manufacturing,Hindi,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,0,0,2,1,0,0,1
+SYN-0044,1_paper_only,Micro,Services,Hindi,0,0,0,1,0,0,0,1,0,0,1,1,1,0,1,0,0,1,0,1,0,0,1,1,2
+SYN-0045,1_paper_only,Micro,Small manufacturing,Hindi,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+SYN-0046,1_paper_only,Micro,Services,English,1,1,2,2,1,1,1,1,2,1,1,1,3,2,1,1,1,2,0,1,2,1,0,0,1
+SYN-0047,1_paper_only,Micro,Retail,Tamil,1,0,1,2,0,2,0,0,1,1,1,1,2,1,0,1,0,1,0,0,0,0,0,0,1
+SYN-0048,1_paper_only,Micro,Small manufacturing,Tamil,1,1,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+SYN-0049,1_paper_only,Micro,Retail,Hindi,2,1,2,1,1,2,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,0,0,3,2
+SYN-0050,1_paper_only,Micro,Food processing,Tamil,1,1,0,1,1,0,1,0,0,1,2,2,1,1,1,1,0,0,0,0,1,1,0,0,0
+SYN-0051,1_paper_only,Small,Retail,Tamil,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+SYN-0052,1_paper_only,Micro,Agri-based,English,2,1,2,0,0,1,0,1,1,2,0,1,0,1,1,0,1,0,0,0,0,1,0,0,0
+SYN-0053,1_paper_only,Micro,Services,Hindi,1,0,0,1,0,1,1,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,1,0
+SYN-0054,1_paper_only,Micro,Retail,English,2,2,3,1,2,2,1,0,1,1,1,2,1,2,2,1,0,1,1,2,3,1,1,1,0
+SYN-0055,1_paper_only,Micro,Retail,Tamil,1,1,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+SYN-0056,1_paper_only,Micro,Retail,English,1,1,1,1,1,0,0,1,0,1,2,1,1,1,2,1,1,1,2,1,0,1,1,1,2
+SYN-0057,1_paper_only,Micro,Agri-based,Tamil,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0
+SYN-0058,1_paper_only,Small,Small manufacturing,Tamil,1,1,1,0,0,0,1,0,1,1,1,0,1,1,1,0,1,0,0,0,0,1,1,1,0
+SYN-0059,1_paper_only,Micro,Retail,Hindi,1,1,1,0,1,1,0,0,1,1,0,0,1,1,1,0,0,0,1,2,1,1,1,1,0
+SYN-0060,1_paper_only,Micro,Handloom and textile,English,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+SYN-0061,2_phone_whatsapp,Micro,Food processing,English,3,2,2,1,2,1,2,2,2,2,3,1,2,2,2,2,2,3,1,2,1,1,2,2,2
+SYN-0062,2_phone_whatsapp,Micro,Services,Hindi,2,1,1,2,2,2,1,0,2,2,3,1,2,0,1,2,2,1,3,2,2,2,1,1,1
+SYN-0063,2_phone_whatsapp,Micro,Handloom and textile,English,2,1,2,1,1,2,2,1,2,0,2,1,0,1,1,1,1,0,2,1,1,1,0,0,1
+SYN-0064,2_phone_whatsapp,Small,Retail,Tamil,2,1,2,2,2,1,1,1,2,1,1,2,2,2,2,1,2,1,1,1,2,1,0,3,2
+SYN-0065,2_phone_whatsapp,Micro,Handloom and textile,Tamil,2,3,1,2,2,2,2,1,2,2,3,2,2,1,1,1,1,2,1,2,0,2,1,0,1
+SYN-0066,2_phone_whatsapp,Micro,Food processing,Hindi,1,2,1,1,2,1,1,1,1,2,1,0,1,1,2,1,2,1,1,1,2,2,1,0,2
+SYN-0067,2_phone_whatsapp,Small,Handloom and textile,English,2,2,4,0,3,2,1,2,2,2,2,1,3,3,2,2,2,1,2,1,1,2,1,0,2
+SYN-0068,2_phone_whatsapp,Micro,Agri-based,English,2,1,2,1,1,1,2,1,1,1,3,2,2,2,2,2,1,1,1,2,1,1,1,2,3
+SYN-0069,2_phone_whatsapp,Small,Handloom and textile,Hindi,3,2,0,2,2,1,2,1,2,2,2,1,1,2,2,3,0,2,1,1,1,1,2,1,2
+SYN-0070,2_phone_whatsapp,Small,Agri-based,Tamil,1,2,1,2,2,1,2,2,2,3,1,2,2,0,1,1,2,1,2,0,3,1,2,2,1
+SYN-0071,2_phone_whatsapp,Micro,Small manufacturing,Tamil,1,1,1,1,1,1,2,1,2,2,1,1,1,2,1,1,1,1,1,0,1,1,0,1,1
+SYN-0072,2_phone_whatsapp,Micro,Agri-based,Tamil,2,2,1,1,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1,1,1,1,1
+SYN-0073,2_phone_whatsapp,Micro,Food processing,Tamil,1,0,1,1,1,2,2,1,1,1,2,0,2,2,1,1,0,1,1,0,1,1,1,1,1
+SYN-0074,2_phone_whatsapp,Micro,Handloom and textile,Hindi,1,2,1,2,2,2,2,2,2,2,1,1,2,1,0,2,1,1,1,1,1,1,1,2,1
+SYN-0075,2_phone_whatsapp,Small,Retail,Hindi,2,2,1,1,3,3,2,2,1,2,3,0,0,1,2,2,1,2,2,3,2,1,2,2,1
+SYN-0076,2_phone_whatsapp,Micro,Retail,Hindi,1,1,1,2,1,1,1,1,1,1,2,1,0,1,2,0,1,2,1,1,2,1,2,0,1
+SYN-0077,2_phone_whatsapp,Micro,Retail,Tamil,2,1,3,2,2,0,2,2,2,1,2,1,2,2,2,1,1,1,2,2,1,2,1,1,2
+SYN-0078,2_phone_whatsapp,Micro,Services,English,0,2,2,1,1,2,2,2,2,1,2,2,1,1,2,1,2,1,0,1,0,1,0,1,1
+SYN-0079,2_phone_whatsapp,Micro,Small manufacturing,English,2,1,2,1,1,1,1,0,1,0,1,1,1,0,2,1,2,2,1,1,1,1,1,1,1
+SYN-0080,2_phone_whatsapp,Micro,Food processing,English,2,2,2,1,3,1,2,1,2,2,1,2,0,2,2,2,1,2,1,1,1,1,2,2,2
+SYN-0081,2_phone_whatsapp,Micro,Services,English,3,3,2,1,3,2,2,2,3,2,3,4,2,1,2,2,3,1,2,3,3,2,1,2,3
+SYN-0082,2_phone_whatsapp,Medium,Services,Tamil,2,2,2,1,2,2,1,2,1,1,2,1,2,1,1,2,1,1,2,1,1,2,1,1,2
+SYN-0083,2_phone_whatsapp,Micro,Food processing,English,2,1,2,2,2,1,0,1,2,2,2,1,1,1,2,1,2,1,0,1,1,2,2,1,2
+SYN-0084,2_phone_whatsapp,Micro,Handloom and textile,English,1,2,4,2,2,2,3,2,1,2,2,3,3,1,3,1,2,1,2,2,2,0,2,1,2
+SYN-0085,2_phone_whatsapp,Micro,Retail,Tamil,2,1,0,3,2,2,3,2,1,3,1,1,2,2,2,1,1,2,2,2,1,1,1,1,1
+SYN-0086,2_phone_whatsapp,Medium,Handloom and textile,Hindi,1,2,1,0,0,2,1,1,2,1,1,1,1,2,1,1,1,2,1,2,1,0,1,2,1
+SYN-0087,2_phone_whatsapp,Micro,Services,Tamil,1,0,2,2,2,1,0,1,1,2,2,1,1,1,1,1,1,1,2,2,2,0,0,2,0
+SYN-0088,2_phone_whatsapp,Micro,Retail,Tamil,2,3,2,3,2,1,2,2,2,1,1,2,2,2,1,1,1,0,1,1,0,2,1,2,1
+SYN-0089,2_phone_whatsapp,Small,Handloom and textile,Tamil,3,2,3,3,2,3,2,3,1,2,1,2,3,2,2,2,2,2,2,2,2,1,1,3,2
+SYN-0090,2_phone_whatsapp,Small,Agri-based,English,3,2,1,0,2,2,1,2,0,2,2,1,2,2,3,1,2,2,2,1,1,0,1,3,1
+SYN-0091,2_phone_whatsapp,Small,Retail,Tamil,2,1,2,2,2,1,2,1,1,2,2,3,3,3,2,1,1,1,2,3,2,1,2,1,2
+SYN-0092,2_phone_whatsapp,Micro,Small manufacturing,Hindi,1,0,2,1,1,2,2,1,0,1,1,1,1,2,1,1,2,1,1,1,1,0,1,1,1
+SYN-0093,2_phone_whatsapp,Micro,Retail,Tamil,2,1,2,1,2,2,1,2,0,2,1,2,1,1,1,2,2,1,1,1,1,1,2,1,0
+SYN-0094,2_phone_whatsapp,Micro,Food processing,Tamil,1,2,2,1,0,1,2,0,2,2,2,2,2,3,2,1,2,1,2,3,1,1,1,1,1
+SYN-0095,2_phone_whatsapp,Micro,Food processing,Tamil,3,1,1,2,3,0,1,2,2,2,2,3,2,1,2,2,1,3,2,2,1,1,2,2,2
+SYN-0096,2_phone_whatsapp,Micro,Small manufacturing,English,2,0,1,1,1,1,1,1,2,2,2,1,2,1,1,1,1,1,1,1,1,0,2,1,1
+SYN-0097,2_phone_whatsapp,Micro,Agri-based,English,2,2,2,3,2,3,2,2,2,0,2,2,2,0,2,2,2,2,2,2,0,1,3,2,2
+SYN-0098,2_phone_whatsapp,Micro,Food processing,English,1,1,1,1,0,0,2,2,1,0,1,1,1,2,1,1,1,1,1,1,0,0,0,1,0
+SYN-0099,2_phone_whatsapp,Micro,Retail,Tamil,1,1,2,2,1,2,2,2,1,2,0,1,2,1,1,2,1,1,3,1,2,1,1,2,1
+SYN-0100,2_phone_whatsapp,Micro,Services,English,2,2,1,1,2,2,2,1,2,1,1,1,2,1,1,2,2,1,0,0,2,0,0,2,1
+SYN-0101,2_phone_whatsapp,Micro,Agri-based,Hindi,1,1,1,3,2,1,1,2,2,2,2,2,1,1,2,2,2,0,2,2,1,1,2,1,1
+SYN-0102,2_phone_whatsapp,Micro,Services,English,2,1,1,1,2,2,1,2,2,1,1,2,2,1,1,0,2,2,1,1,2,1,0,0,2
+SYN-0103,2_phone_whatsapp,Micro,Agri-based,English,2,2,2,2,2,1,1,1,2,2,0,2,1,2,1,2,2,3,1,2,2,2,2,1,1
+SYN-0104,2_phone_whatsapp,Micro,Services,Hindi,1,2,1,1,2,1,1,1,1,1,2,1,2,2,1,2,0,1,0,0,1,0,0,0,2
+SYN-0105,2_phone_whatsapp,Small,Retail,English,1,2,1,1,3,1,2,2,2,1,1,1,1,1,1,1,2,1,1,2,1,1,1,1,2
+SYN-0106,2_phone_whatsapp,Micro,Services,Tamil,2,1,2,1,1,2,1,1,1,2,1,1,2,1,2,2,2,1,1,2,1,2,1,1,1
+SYN-0107,2_phone_whatsapp,Small,Handloom and textile,Tamil,2,3,2,3,3,2,2,2,2,2,2,2,2,2,2,2,3,2,2,2,2,1,2,1,2
+SYN-0108,2_phone_whatsapp,Small,Handloom and textile,English,1,1,1,2,2,2,1,1,2,2,2,1,1,1,2,1,1,2,1,2,1,0,1,2,1
+SYN-0109,2_phone_whatsapp,Small,Agri-based,Hindi,2,1,2,1,1,1,2,2,2,1,2,2,0,2,2,2,2,0,1,1,1,1,1,2,1
+SYN-0110,2_phone_whatsapp,Micro,Handloom and textile,English,1,2,2,1,2,1,1,1,2,2,1,2,2,2,2,1,1,1,1,0,1,0,0,1,2
+SYN-0111,2_phone_whatsapp,Micro,Small manufacturing,Tamil,1,2,0,2,0,2,1,2,2,1,2,2,2,1,1,0,1,1,1,2,2,2,1,1,2
+SYN-0112,2_phone_whatsapp,Small,Food processing,Tamil,1,2,2,2,2,1,0,2,3,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,2
+SYN-0113,2_phone_whatsapp,Medium,Retail,Tamil,2,2,2,2,2,2,2,3,2,3,2,3,2,1,2,2,1,2,2,1,2,2,3,2,2
+SYN-0114,2_phone_whatsapp,Micro,Food processing,English,2,2,2,2,2,1,1,2,3,2,2,2,3,1,2,1,1,1,2,1,1,2,1,1,2
+SYN-0115,2_phone_whatsapp,Micro,Handloom and textile,Tamil,3,2,2,1,2,2,3,3,1,3,2,2,2,1,2,3,2,1,1,2,1,2,3,2,2
+SYN-0116,2_phone_whatsapp,Micro,Agri-based,English,3,2,2,2,1,2,2,2,2,3,2,2,2,1,2,1,1,1,3,1,2,2,2,2,1
+SYN-0117,2_phone_whatsapp,Small,Food processing,Tamil,1,1,3,1,2,2,2,2,2,1,2,1,2,3,2,1,1,1,1,2,2,1,1,1,1
+SYN-0118,2_phone_whatsapp,Micro,Food processing,English,2,2,2,2,1,1,3,1,3,2,2,2,2,1,2,2,2,2,2,1,1,2,1,2,2
+SYN-0119,2_phone_whatsapp,Micro,Handloom and textile,English,2,3,2,3,3,2,2,2,3,2,1,3,2,3,3,2,3,2,2,2,2,3,3,2,3
+SYN-0120,2_phone_whatsapp,Micro,Services,Tamil,2,2,2,1,3,1,2,0,2,2,2,1,1,1,2,1,1,2,1,0,2,1,1,0,1
+SYN-0121,3_partly_digital,Micro,Small manufacturing,English,3,3,3,3,2,1,2,3,2,2,1,4,2,2,1,1,2,2,1,2,1,1,2,2,2
+SYN-0122,3_partly_digital,Micro,Agri-based,Hindi,2,4,3,3,3,2,3,1,2,1,3,2,3,2,3,3,2,2,2,2,1,2,3,2,1
+SYN-0123,3_partly_digital,Small,Handloom and textile,English,2,2,3,3,4,1,2,2,2,2,3,2,2,2,1,3,1,2,1,3,2,3,2,2,3
+SYN-0124,3_partly_digital,Micro,Retail,Tamil,2,2,3,3,1,2,2,2,3,2,3,2,1,2,1,3,1,2,3,2,2,1,2,2,2
+SYN-0125,3_partly_digital,Micro,Agri-based,Tamil,2,3,3,2,3,2,4,3,3,3,3,2,2,2,4,2,3,2,3,4,3,2,3,2,3
+SYN-0126,3_partly_digital,Micro,Food processing,Tamil,4,3,1,2,3,2,3,2,3,3,3,2,2,1,2,2,2,2,3,2,2,2,2,1,2
+SYN-0127,3_partly_digital,Micro,Services,Hindi,1,3,2,1,1,2,2,3,3,2,2,2,2,2,2,3,2,2,1,3,2,1,2,2,2
+SYN-0128,3_partly_digital,Micro,Agri-based,English,3,2,2,3,3,3,3,3,3,3,3,2,2,2,3,2,2,2,1,2,3,3,1,2,1
+SYN-0129,3_partly_digital,Micro,Food processing,Hindi,2,3,3,3,3,3,3,2,2,1,3,2,3,2,3,3,4,3,2,2,2,3,2,2,1
+SYN-0130,3_partly_digital,Small,Retail,Tamil,2,1,1,1,2,1,0,0,2,2,1,2,1,1,1,1,1,1,1,1,0,1,1,1,2
+SYN-0131,3_partly_digital,Micro,Services,Tamil,3,3,2,2,2,3,2,2,2,2,2,1,2,2,2,2,1,2,2,3,1,2,2,3,2
+SYN-0132,3_partly_digital,Micro,Services,English,2,2,2,2,2,2,1,2,1,2,2,0,2,1,3,1,2,2,2,2,2,2,2,2,2
+SYN-0133,3_partly_digital,Medium,Handloom and textile,English,4,3,3,3,2,3,2,2,3,3,2,3,3,2,2,2,3,2,1,3,3,2,3,1,3
+SYN-0134,3_partly_digital,Micro,Retail,English,1,2,2,2,3,2,1,2,2,2,2,1,2,1,2,2,2,1,1,1,1,2,2,1,1
+SYN-0135,3_partly_digital,Small,Handloom and textile,Hindi,2,2,3,2,2,3,3,2,2,2,2,2,2,2,2,3,2,2,3,2,0,3,2,2,1
+SYN-0136,3_partly_digital,Micro,Handloom and textile,Tamil,3,3,4,2,4,1,2,3,4,2,3,3,3,3,2,2,3,3,1,2,2,2,2,2,2
+SYN-0137,3_partly_digital,Micro,Small manufacturing,Hindi,2,2,4,3,2,3,3,2,3,2,3,2,3,2,3,2,3,2,2,2,2,2,2,3,1
+SYN-0138,3_partly_digital,Micro,Retail,Hindi,3,3,2,3,2,3,2,2,3,2,3,3,2,2,2,3,3,2,2,2,1,2,2,4,3
+SYN-0139,3_partly_digital,Small,Retail,Tamil,2,2,3,2,3,2,2,1,3,2,2,3,2,2,3,2,3,1,3,2,1,2,2,2,2
+SYN-0140,3_partly_digital,Small,Agri-based,Hindi,2,3,2,2,3,2,2,3,2,3,2,2,2,2,2,2,2,2,2,3,2,1,2,1,2
+SYN-0141,3_partly_digital,Micro,Agri-based,Tamil,2,2,3,2,2,2,2,2,3,2,2,2,1,1,3,3,3,2,2,2,0,2,2,2,1
+SYN-0142,3_partly_digital,Small,Agri-based,English,3,3,3,2,2,2,2,2,2,2,3,3,2,2,1,2,2,3,2,3,1,2,3,1,2
+SYN-0143,3_partly_digital,Medium,Agri-based,Tamil,2,3,3,3,2,2,2,3,2,2,3,3,2,2,3,1,2,2,2,2,2,2,2,2,2
+SYN-0144,3_partly_digital,Micro,Retail,Hindi,3,3,3,3,3,4,4,3,3,3,4,4,3,3,2,3,3,2,2,3,2,2,3,2,3
+SYN-0145,3_partly_digital,Micro,Small manufacturing,English,2,2,2,2,1,3,2,1,2,2,1,2,2,1,2,2,2,2,2,2,2,2,2,0,2
+SYN-0146,3_partly_digital,Micro,Retail,Hindi,2,1,2,2,2,2,2,2,2,2,2,2,2,3,2,2,3,2,2,2,2,2,0,2,1
+SYN-0147,3_partly_digital,Small,Food processing,English,3,3,3,3,3,2,2,1,1,2,2,3,3,3,2,3,2,2,1,2,2,1,1,2,2
+SYN-0148,3_partly_digital,Small,Services,Tamil,2,3,2,2,3,3,3,3,3,3,4,2,2,2,3,3,3,3,3,3,3,2,3,3,2
+SYN-0149,3_partly_digital,Small,Handloom and textile,English,1,2,2,3,1,3,2,4,2,3,3,2,2,1,2,3,2,2,3,2,2,3,2,2,1
+SYN-0150,3_partly_digital,Small,Retail,Hindi,2,2,2,2,3,3,3,2,2,2,1,2,2,3,1,2,3,2,2,3,1,2,2,2,1
+SYN-0151,3_partly_digital,Micro,Retail,Hindi,3,3,2,2,2,3,2,2,3,3,3,2,3,2,3,2,3,3,2,3,3,4,1,3,3
+SYN-0152,3_partly_digital,Medium,Handloom and textile,Tamil,3,2,4,4,4,2,4,3,4,3,3,4,3,3,4,4,2,3,3,3,2,2,2,2,3
+SYN-0153,3_partly_digital,Micro,Food processing,English,3,2,3,4,3,3,2,2,3,2,2,3,3,1,2,2,2,1,2,2,2,2,2,2,1
+SYN-0154,3_partly_digital,Micro,Services,English,2,3,2,1,2,2,2,2,2,2,2,2,1,3,3,2,2,2,1,1,2,2,2,1,1
+SYN-0155,3_partly_digital,Micro,Services,Hindi,3,2,2,2,4,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,1,2,1,2,1
+SYN-0156,3_partly_digital,Small,Small manufacturing,English,2,3,3,3,3,1,2,2,2,3,2,2,2,2,2,2,2,3,1,3,3,1,1,2,1
+SYN-0157,3_partly_digital,Small,Food processing,Hindi,2,3,3,3,2,3,2,2,2,3,3,2,3,2,3,4,3,2,3,3,2,3,3,2,3
+SYN-0158,3_partly_digital,Micro,Handloom and textile,Tamil,3,2,3,4,3,3,2,2,2,3,3,2,2,3,2,2,2,1,2,2,1,2,2,1,3
+SYN-0159,3_partly_digital,Small,Retail,Tamil,3,1,3,3,2,2,2,2,2,2,2,3,2,2,2,2,2,1,3,3,2,2,2,2,3
+SYN-0160,3_partly_digital,Micro,Handloom and textile,Tamil,1,3,2,3,4,2,2,3,2,2,3,2,3,2,3,3,2,3,3,2,2,3,3,2,3
+SYN-0161,3_partly_digital,Small,Small manufacturing,English,3,1,3,2,2,1,2,3,1,2,2,2,3,2,3,2,2,2,3,3,2,2,2,2,3
+SYN-0162,3_partly_digital,Small,Food processing,Hindi,3,3,2,2,3,1,2,1,2,3,2,3,3,2,2,2,3,1,1,3,2,2,1,2,2
+SYN-0163,3_partly_digital,Medium,Agri-based,English,2,3,2,2,1,2,2,2,1,2,2,3,1,2,2,2,2,2,2,2,2,1,1,2,2
+SYN-0164,3_partly_digital,Medium,Agri-based,Hindi,2,1,2,2,2,2,1,2,2,1,1,0,2,1,1,3,2,2,2,2,0,1,1,2,1
+SYN-0165,3_partly_digital,Micro,Retail,Tamil,3,2,2,2,3,2,3,2,3,2,3,2,2,2,3,1,1,1,1,3,2,0,2,3,2
+SYN-0166,3_partly_digital,Micro,Agri-based,Hindi,3,2,2,3,2,2,3,3,2,2,3,1,2,2,3,2,2,2,2,3,3,3,3,3,2
+SYN-0167,3_partly_digital,Small,Retail,English,3,3,2,2,2,3,3,3,1,2,1,2,1,2,2,4,2,2,2,3,2,2,2,2,3
+SYN-0168,3_partly_digital,Small,Services,English,3,2,2,2,2,2,3,1,2,2,1,2,2,2,2,2,2,2,3,2,2,3,2,1,3
+SYN-0169,3_partly_digital,Micro,Agri-based,Tamil,2,2,1,3,3,2,3,2,3,1,3,2,2,0,2,3,2,1,2,2,2,1,2,2,2
+SYN-0170,3_partly_digital,Small,Services,English,3,3,3,2,2,2,2,3,2,2,1,2,3,2,2,2,2,3,2,1,1,1,1,1,3
+SYN-0171,3_partly_digital,Medium,Retail,Tamil,2,2,2,2,2,1,3,3,2,2,2,1,1,2,2,3,2,2,3,2,2,1,1,1,0
+SYN-0172,3_partly_digital,Small,Services,English,2,4,2,2,3,3,2,3,3,2,3,2,3,3,3,2,3,3,2,3,2,1,3,2,2
+SYN-0173,3_partly_digital,Small,Handloom and textile,Tamil,3,4,2,3,3,2,2,2,3,3,2,3,3,2,3,3,2,3,2,3,3,4,3,2,2
+SYN-0174,3_partly_digital,Micro,Food processing,Hindi,2,2,2,2,2,3,2,3,3,2,3,2,2,2,2,3,3,1,1,2,1,2,2,2,2
+SYN-0175,3_partly_digital,Small,Services,Tamil,3,2,3,3,2,2,2,2,2,2,2,3,3,2,1,1,2,3,2,2,2,3,1,1,2
+SYN-0176,3_partly_digital,Small,Services,Hindi,2,3,4,3,3,3,4,4,4,4,3,2,3,3,3,2,3,3,3,3,3,2,3,3,2
+SYN-0177,3_partly_digital,Small,Small manufacturing,Tamil,3,3,3,2,3,3,2,2,2,2,3,4,2,3,2,3,2,2,2,3,3,3,2,2,2
+SYN-0178,3_partly_digital,Micro,Agri-based,Tamil,3,2,2,3,4,3,3,2,3,3,0,2,3,2,3,3,2,1,1,2,2,2,2,2,2
+SYN-0179,3_partly_digital,Micro,Agri-based,Hindi,2,2,2,2,2,2,3,3,2,4,2,3,3,2,3,3,3,2,2,2,3,3,3,2,3
+SYN-0180,3_partly_digital,Micro,Services,English,2,1,1,2,2,1,1,0,1,2,1,1,0,1,1,0,2,2,0,1,0,0,0,1,0
+SYN-0181,4_cloud_adopting,Small,Retail,Hindi,3,3,3,3,3,2,2,3,3,3,3,3,2,3,2,2,3,2,4,4,2,2,1,2,2
+SYN-0182,4_cloud_adopting,Small,Handloom and textile,English,3,3,3,3,1,3,3,2,3,2,3,3,3,3,4,4,2,3,2,3,3,2,3,4,2
+SYN-0183,4_cloud_adopting,Small,Food processing,Tamil,3,3,3,4,4,4,3,3,3,2,3,2,4,4,3,3,4,4,4,4,2,4,2,2,2
+SYN-0184,4_cloud_adopting,Small,Handloom and textile,Hindi,3,3,3,3,2,3,3,3,2,4,3,4,4,2,3,4,3,4,3,4,4,3,3,3,3
+SYN-0185,4_cloud_adopting,Medium,Small manufacturing,Tamil,4,4,3,4,4,3,4,4,3,3,3,3,3,4,3,4,4,3,3,4,2,3,4,3,4
+SYN-0186,4_cloud_adopting,Small,Services,English,4,3,3,2,3,3,4,3,3,4,2,3,2,3,3,4,3,2,4,3,2,2,4,2,3
+SYN-0187,4_cloud_adopting,Micro,Handloom and textile,English,3,3,4,3,4,3,3,4,3,4,2,2,3,3,3,3,4,2,4,3,2,3,2,3,2
+SYN-0188,4_cloud_adopting,Medium,Food processing,Tamil,3,2,3,4,2,2,2,2,3,2,3,2,2,3,2,2,2,2,2,2,2,2,3,2,1
+SYN-0189,4_cloud_adopting,Micro,Retail,Tamil,3,3,4,3,3,3,3,2,2,3,3,3,3,2,2,3,3,2,3,3,2,1,3,2,3
+SYN-0190,4_cloud_adopting,Small,Food processing,Tamil,4,4,4,2,4,3,4,4,3,3,3,3,3,3,2,3,4,3,4,3,3,3,4,3,3
+SYN-0191,4_cloud_adopting,Micro,Small manufacturing,Hindi,3,2,2,2,3,2,2,4,2,2,2,2,3,2,3,3,3,2,2,3,3,2,2,3,2
+SYN-0192,4_cloud_adopting,Micro,Agri-based,Tamil,4,4,4,3,4,3,4,4,4,4,3,3,4,4,4,4,4,4,3,4,3,3,4,3,3
+SYN-0193,4_cloud_adopting,Micro,Retail,Tamil,3,3,4,3,3,4,4,4,3,3,3,3,3,3,4,3,4,3,4,4,4,3,3,3,4
+SYN-0194,4_cloud_adopting,Micro,Handloom and textile,English,2,2,2,3,2,3,1,3,2,2,3,2,3,2,3,2,2,2,1,2,2,2,3,2,1
+SYN-0195,4_cloud_adopting,Small,Small manufacturing,Tamil,3,3,2,3,2,2,4,4,2,2,2,2,3,2,3,2,4,3,3,2,3,2,2,3,2
+SYN-0196,4_cloud_adopting,Small,Handloom and textile,Tamil,3,3,4,1,2,2,3,3,3,3,3,2,4,2,2,2,3,2,2,2,2,3,3,2,2
+SYN-0197,4_cloud_adopting,Micro,Services,English,4,3,3,2,4,3,4,4,4,4,4,3,2,4,3,4,3,4,3,4,4,4,4,2,4
+SYN-0198,4_cloud_adopting,Micro,Food processing,English,4,3,4,3,3,4,4,3,4,3,4,2,3,3,2,3,4,3,4,4,4,3,3,4,3
+SYN-0199,4_cloud_adopting,Micro,Agri-based,Hindi,2,4,2,3,3,3,2,3,3,3,3,2,2,3,3,2,3,2,4,2,2,3,3,3,3
+SYN-0200,4_cloud_adopting,Micro,Services,English,4,4,4,3,4,4,4,2,3,3,2,4,2,3,3,3,3,4,3,3,4,3,2,3,4
+SYN-0201,4_cloud_adopting,Medium,Retail,Tamil,3,3,3,4,4,3,3,4,4,4,4,3,3,2,3,4,3,2,3,4,3,2,4,4,4
+SYN-0202,4_cloud_adopting,Micro,Services,Tamil,2,4,2,3,3,2,4,4,4,4,4,3,3,3,2,3,4,3,3,4,4,2,3,3,3
+SYN-0203,4_cloud_adopting,Small,Small manufacturing,Tamil,3,3,2,3,3,3,4,3,3,4,3,3,3,3,4,3,3,4,3,2,4,3,4,3,3
+SYN-0204,4_cloud_adopting,Medium,Services,English,3,2,3,3,3,3,3,3,4,2,2,3,2,3,2,3,3,3,3,2,2,4,2,3,2
+SYN-0205,4_cloud_adopting,Small,Agri-based,English,2,3,1,2,3,2,3,3,3,3,1,3,3,3,3,4,2,3,2,3,3,2,4,3,2
+SYN-0206,4_cloud_adopting,Micro,Small manufacturing,English,3,3,3,2,3,3,2,2,3,3,3,3,2,2,2,3,3,2,3,3,3,2,3,2,2
+SYN-0207,4_cloud_adopting,Micro,Small manufacturing,Tamil,4,3,3,3,3,3,3,2,3,4,3,3,3,4,3,2,4,3,2,3,1,3,3,2,4
+SYN-0208,4_cloud_adopting,Small,Food processing,Hindi,3,4,4,4,4,4,3,4,4,4,4,4,4,3,4,4,4,3,4,4,4,3,4,3,3
+SYN-0209,4_cloud_adopting,Medium,Retail,English,3,2,4,3,4,3,3,3,3,3,3,2,2,3,3,3,2,3,4,2,1,2,2,1,2
+SYN-0210,4_cloud_adopting,Small,Food processing,English,3,3,3,2,4,4,3,2,2,4,3,4,3,3,3,3,3,2,3,3,2,2,3,3,2
+SYN-0211,4_cloud_adopting,Small,Handloom and textile,Tamil,4,4,4,4,4,4,4,4,4,4,4,4,3,4,3,4,4,4,4,4,4,3,3,4,4
+SYN-0212,4_cloud_adopting,Small,Handloom and textile,Tamil,4,3,2,3,4,3,3,3,2,4,4,2,2,2,3,2,4,3,3,3,3,3,3,3,3
+SYN-0213,4_cloud_adopting,Micro,Small manufacturing,English,4,2,2,2,2,3,2,4,2,2,1,2,3,3,2,2,3,3,3,2,3,3,3,2,2
+SYN-0214,4_cloud_adopting,Micro,Small manufacturing,Tamil,3,3,3,4,4,3,3,4,3,3,2,2,3,3,2,3,3,3,3,3,1,3,3,3,3
+SYN-0215,4_cloud_adopting,Micro,Handloom and textile,Tamil,3,3,4,4,4,3,3,2,4,3,2,4,3,3,4,3,4,2,3,2,2,3,4,3,2
+SYN-0216,4_cloud_adopting,Micro,Services,English,3,3,3,3,4,2,3,3,2,4,3,3,3,3,3,4,2,3,4,2,3,4,2,3,3
+SYN-0217,4_cloud_adopting,Small,Agri-based,Hindi,3,2,3,3,4,4,3,3,3,4,2,3,3,3,3,2,2,3,3,4,4,3,3,3,3
+SYN-0218,4_cloud_adopting,Medium,Small manufacturing,English,3,4,3,3,4,3,4,4,4,2,2,2,2,3,3,2,3,4,3,2,2,2,4,3,2
+SYN-0219,4_cloud_adopting,Micro,Services,English,2,2,2,3,3,2,3,3,3,2,1,2,1,2,2,2,2,3,2,2,2,3,3,2,2
+SYN-0220,4_cloud_adopting,Small,Handloom and textile,English,2,3,3,2,3,3,3,3,2,3,2,2,2,2,2,2,3,2,2,3,2,2,3,3,2
+SYN-0221,4_cloud_adopting,Small,Handloom and textile,Hindi,4,4,4,4,4,3,2,4,3,4,3,4,4,3,4,4,4,3,4,4,4,3,4,3,3
+SYN-0222,4_cloud_adopting,Small,Retail,Tamil,3,3,4,3,3,4,3,2,3,3,3,2,3,4,3,3,4,2,3,3,3,3,4,3,3
+SYN-0223,4_cloud_adopting,Small,Small manufacturing,English,2,1,4,3,2,2,3,2,2,3,3,3,2,3,2,3,2,2,4,3,2,1,1,3,2
+SYN-0224,4_cloud_adopting,Medium,Food processing,English,3,3,3,3,3,1,1,2,3,3,3,3,3,2,2,2,3,2,2,3,2,2,2,1,2
+SYN-0225,4_cloud_adopting,Micro,Small manufacturing,Tamil,3,4,4,3,4,3,3,4,3,3,4,3,3,3,4,4,3,3,3,2,3,4,3,3,3
+SYN-0226,4_cloud_adopting,Micro,Services,English,4,3,4,3,3,4,3,3,3,3,2,3,3,4,3,2,4,3,3,3,4,1,3,3,4
+SYN-0227,4_cloud_adopting,Small,Retail,Hindi,4,3,4,3,2,3,3,3,4,3,2,3,2,3,3,3,3,4,4,4,3,2,3,3,3
+SYN-0228,4_cloud_adopting,Medium,Handloom and textile,English,3,4,4,3,4,2,4,3,3,3,4,3,4,4,4,4,4,3,4,3,3,4,3,4,4
+SYN-0229,4_cloud_adopting,Small,Services,English,3,3,2,4,3,2,3,3,3,4,3,3,3,3,4,2,4,4,2,4,4,2,3,2,3
+SYN-0230,4_cloud_adopting,Micro,Services,Hindi,2,2,4,3,3,1,2,2,2,3,3,3,2,2,3,2,3,2,3,3,2,3,3,2,2
+SYN-0231,4_cloud_adopting,Micro,Agri-based,English,3,4,2,1,2,3,2,2,4,3,2,3,2,2,2,3,2,3,3,3,1,2,1,3,3
+SYN-0232,4_cloud_adopting,Micro,Services,Tamil,3,4,4,4,4,3,3,4,4,4,4,4,3,4,3,3,4,4,3,4,3,3,4,4,3
+SYN-0233,4_cloud_adopting,Small,Food processing,Tamil,3,2,3,3,4,3,3,4,3,3,2,3,3,3,3,3,3,2,3,3,3,4,2,3,2
+SYN-0234,4_cloud_adopting,Medium,Food processing,English,2,3,2,2,3,2,4,2,3,2,2,2,3,2,3,2,4,3,4,4,2,3,3,3,3
+SYN-0235,4_cloud_adopting,Medium,Services,Tamil,3,4,2,4,2,3,3,3,3,3,2,3,3,2,3,3,3,3,3,3,2,3,2,2,2
+SYN-0236,4_cloud_adopting,Small,Services,Hindi,3,3,3,3,2,3,2,1,4,3,2,2,2,4,2,3,4,3,4,4,3,3,2,3,2
+SYN-0237,4_cloud_adopting,Micro,Handloom and textile,Tamil,3,3,3,4,2,3,4,4,3,4,4,3,2,4,2,3,3,4,4,4,3,3,2,3,3
+SYN-0238,4_cloud_adopting,Micro,Handloom and textile,English,3,4,3,3,3,3,3,3,3,3,3,3,4,4,3,3,3,3,4,3,3,4,2,3,2
+SYN-0239,4_cloud_adopting,Small,Agri-based,Hindi,3,3,4,4,4,3,4,3,3,4,3,3,4,3,3,3,3,3,4,3,4,3,3,3,3
+SYN-0240,4_cloud_adopting,Micro,Food processing,Tamil,3,3,4,4,3,4,4,4,3,4,3,3,4,4,3,2,4,3,4,3,3,4,4,3,3
+SYN-0241,5_cloud_mature,Medium,Agri-based,Tamil,3,4,3,4,4,2,3,3,2,2,3,3,3,3,2,2,3,3,2,3,3,3,2,3,3
+SYN-0242,5_cloud_mature,Medium,Retail,English,3,4,4,2,3,4,3,4,3,3,4,4,3,4,3,3,4,4,4,4,4,3,4,3,4
+SYN-0243,5_cloud_mature,Small,Agri-based,English,4,4,3,3,4,4,4,3,3,3,3,3,2,3,3,3,3,3,4,3,3,3,4,4,4
+SYN-0244,5_cloud_mature,Small,Services,Tamil,4,3,4,4,4,4,3,3,3,4,4,4,3,4,3,4,4,3,4,3,4,4,3,3,4
+SYN-0245,5_cloud_mature,Micro,Handloom and textile,English,2,4,4,4,3,3,4,3,3,4,3,3,2,4,3,2,4,3,3,4,4,3,4,3,3
+SYN-0246,5_cloud_mature,Micro,Agri-based,Hindi,4,4,3,4,4,3,3,4,4,4,4,3,4,4,3,4,3,4,4,3,3,4,4,4,4
+SYN-0247,5_cloud_mature,Medium,Food processing,Hindi,4,3,3,4,4,4,4,4,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4
+SYN-0248,5_cloud_mature,Micro,Services,Tamil,4,4,3,4,3,4,4,3,3,3,4,3,3,4,3,4,3,3,4,4,3,4,3,2,4
+SYN-0249,5_cloud_mature,Micro,Handloom and textile,Tamil,4,4,2,4,4,4,3,4,3,4,4,4,4,4,3,4,3,3,4,4,4,4,4,3,3
+SYN-0250,5_cloud_mature,Small,Retail,Tamil,4,4,4,4,3,4,3,3,3,3,4,3,4,4,3,3,4,4,3,2,4,3,3,3,3
+SYN-0251,5_cloud_mature,Small,Food processing,English,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,3,4
+SYN-0252,5_cloud_mature,Small,Handloom and textile,English,3,2,4,4,4,3,2,3,4,3,3,3,4,3,4,3,3,4,4,4,3,4,3,3,4
+SYN-0253,5_cloud_mature,Small,Agri-based,English,4,4,3,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,3
+SYN-0254,5_cloud_mature,Micro,Handloom and textile,Tamil,4,4,4,4,4,2,4,4,4,3,4,3,3,4,4,4,4,3,4,3,4,3,2,4,3
+SYN-0255,5_cloud_mature,Medium,Handloom and textile,Tamil,3,4,4,3,4,3,4,3,3,3,4,3,4,3,3,4,4,4,4,4,3,3,3,4,4
+SYN-0256,5_cloud_mature,Medium,Small manufacturing,English,3,4,4,3,4,4,3,4,4,3,3,3,3,3,3,4,4,4,4,3,4,3,3,3,4
+SYN-0257,5_cloud_mature,Small,Retail,English,3,4,3,4,3,3,3,2,3,4,4,4,3,4,3,4,4,2,2,3,3,3,4,3,4
+SYN-0258,5_cloud_mature,Medium,Food processing,Tamil,4,4,4,4,4,3,3,4,3,4,3,3,4,3,3,3,4,4,3,3,3,4,3,3,2
+SYN-0259,5_cloud_mature,Micro,Food processing,Tamil,3,4,3,3,4,4,3,4,3,4,3,3,3,3,2,3,4,2,3,4,3,3,3,2,4
+SYN-0260,5_cloud_mature,Small,Food processing,English,2,3,3,3,3,3,3,3,2,4,3,4,4,3,3,3,2,3,4,3,2,3,3,2,3
+SYN-0261,5_cloud_mature,Medium,Services,Tamil,3,4,4,3,3,4,4,4,4,3,4,3,3,3,4,4,3,4,4,4,4,4,3,4,4
+SYN-0262,5_cloud_mature,Medium,Food processing,English,4,3,4,4,4,4,4,4,4,3,3,4,4,3,4,3,3,4,4,3,4,4,4,4,4
+SYN-0263,5_cloud_mature,Medium,Food processing,Tamil,4,4,4,4,4,4,4,4,4,4,3,4,3,3,3,4,4,4,4,4,4,4,3,4,3
+SYN-0264,5_cloud_mature,Medium,Services,Hindi,4,4,4,4,4,3,4,3,4,4,4,3,3,2,3,4,4,4,3,4,4,4,3,4,4
+SYN-0265,5_cloud_mature,Small,Small manufacturing,English,4,4,4,4,3,4,4,4,4,4,4,3,4,4,3,4,4,4,4,4,3,4,4,4,4
+SYN-0266,5_cloud_mature,Micro,Services,English,3,4,4,4,4,3,4,4,4,4,3,4,4,3,3,3,4,4,4,4,3,3,3,4,4
+SYN-0267,5_cloud_mature,Micro,Food processing,Tamil,4,4,3,3,4,4,3,3,3,3,3,3,3,3,2,3,3,2,3,3,4,3,4,2,3
+SYN-0268,5_cloud_mature,Small,Handloom and textile,English,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+SYN-0269,5_cloud_mature,Small,Retail,English,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+SYN-0270,5_cloud_mature,Small,Handloom and textile,English,3,3,4,4,3,3,4,4,3,3,3,3,3,4,4,4,3,4,4,4,4,4,3,3,3
+SYN-0271,5_cloud_mature,Small,Food processing,English,4,4,3,4,4,4,3,4,3,4,4,3,4,4,3,3,4,2,3,3,3,3,4,3,4
+SYN-0272,5_cloud_mature,Medium,Small manufacturing,English,2,3,3,3,4,4,3,2,2,2,2,3,2,4,3,3,3,3,4,3,3,3,2,3,2
+SYN-0273,5_cloud_mature,Small,Small manufacturing,Tamil,3,4,4,4,2,4,3,4,2,3,2,4,3,2,2,2,3,4,3,3,4,2,3,3,4
+SYN-0274,5_cloud_mature,Micro,Agri-based,English,4,4,3,4,2,4,3,4,4,4,3,4,3,3,4,3,4,3,4,2,3,3,3,3,4
+SYN-0275,5_cloud_mature,Micro,Handloom and textile,English,3,4,4,3,3,3,4,4,4,3,3,3,4,2,4,4,4,4,3,3,3,4,4,4,3
+SYN-0276,5_cloud_mature,Small,Services,English,4,3,4,4,4,3,4,4,4,4,4,4,4,3,4,4,3,3,4,4,4,4,4,4,3
+SYN-0277,5_cloud_mature,Small,Handloom and textile,English,4,4,4,3,3,4,4,4,4,3,4,3,3,3,3,3,4,4,4,3,4,3,4,4,3
+SYN-0278,5_cloud_mature,Small,Food processing,English,3,3,3,4,3,3,3,4,4,4,3,2,3,4,4,4,4,4,3,4,4,4,2,3,3
+SYN-0279,5_cloud_mature,Small,Agri-based,English,4,3,4,4,3,4,4,3,4,4,3,4,4,3,3,4,4,4,4,4,4,4,4,4,4
+SYN-0280,5_cloud_mature,Medium,Food processing,Hindi,3,2,3,4,3,4,4,3,3,3,3,3,3,2,3,4,4,2,4,2,4,4,3,3,3
+SYN-0281,5_cloud_mature,Medium,Small manufacturing,Tamil,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,3,4,4
+SYN-0282,5_cloud_mature,Medium,Agri-based,Hindi,3,4,4,3,4,4,4,3,4,3,2,4,4,4,4,4,4,4,4,4,3,4,3,3,3
+SYN-0283,5_cloud_mature,Small,Food processing,Tamil,3,3,2,4,3,3,4,3,3,3,4,3,3,3,3,4,3,4,4,4,3,3,2,3,4
+SYN-0284,5_cloud_mature,Medium,Services,Tamil,2,3,4,4,4,4,3,4,3,4,3,3,3,3,3,4,3,4,4,4,4,3,4,4,3
+SYN-0285,5_cloud_mature,Medium,Handloom and textile,Tamil,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4
+SYN-0286,5_cloud_mature,Medium,Food processing,Tamil,4,4,4,3,3,3,4,4,4,3,3,4,4,4,4,3,4,3,3,4,3,4,3,4,3
+SYN-0287,5_cloud_mature,Medium,Retail,Tamil,3,4,4,4,4,3,3,3,4,3,4,4,4,4,4,4,4,3,4,4,4,3,4,4,3
+SYN-0288,5_cloud_mature,Micro,Services,Tamil,4,4,3,4,4,4,4,4,3,3,4,4,4,4,4,4,3,4,4,4,4,3,4,4,4
+SYN-0289,5_cloud_mature,Medium,Services,Tamil,3,3,4,3,4,4,3,4,3,3,3,3,3,4,3,3,4,3,4,4,3,4,4,4,4
+SYN-0290,5_cloud_mature,Small,Small manufacturing,English,3,4,4,4,4,3,3,4,3,3,3,4,3,2,3,4,3,3,3,3,3,4,3,3,3
+SYN-0291,5_cloud_mature,Micro,Food processing,English,4,4,4,4,4,4,4,4,4,4,3,4,3,4,4,4,4,4,4,3,4,4,4,4,4
+SYN-0292,5_cloud_mature,Medium,Food processing,English,4,3,4,3,4,4,4,4,4,4,4,4,3,4,3,4,4,4,3,4,4,3,4,3,4
+SYN-0293,5_cloud_mature,Small,Small manufacturing,Hindi,3,3,3,3,3,4,3,3,3,4,4,3,3,2,3,3,3,2,4,2,1,3,2,2,3
+SYN-0294,5_cloud_mature,Medium,Handloom and textile,Tamil,3,4,4,4,4,4,4,3,4,3,3,2,2,2,3,3,3,4,2,4,3,2,3,3,4
+SYN-0295,5_cloud_mature,Medium,Food processing,Tamil,4,4,4,4,4,4,4,3,3,4,4,3,4,3,3,4,4,3,4,4,3,3,4,4,2
+SYN-0296,5_cloud_mature,Medium,Food processing,Hindi,3,3,3,2,3,4,3,4,2,3,2,3,3,3,3,2,3,3,3,4,2,3,3,2,3
+SYN-0297,5_cloud_mature,Micro,Small manufacturing,Tamil,4,4,4,3,4,3,4,4,4,4,3,3,4,4,3,4,4,4,4,4,3,4,4,3,4
+SYN-0298,5_cloud_mature,Small,Services,Tamil,4,4,3,3,4,4,3,4,4,4,4,4,3,4,4,4,4,4,3,4,4,4,4,4,4
+SYN-0299,5_cloud_mature,Medium,Small manufacturing,Tamil,3,4,4,4,4,4,4,4,4,4,4,4,4,3,3,4,4,4,4,4,4,3,4,4,4
+SYN-0300,5_cloud_mature,Micro,Food processing,Hindi,3,3,3,4,4,4,4,4,2,4,4,4,4,2,3,4,3,4,4,4,4,4,4,2,3
