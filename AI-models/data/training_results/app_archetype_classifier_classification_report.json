@@ -1,0 +1,45 @@
+{
+  "1_paper_only": {
+    "precision": 0.9166666666666666,
+    "recall": 0.9166666666666666,
+    "f1-score": 0.9166666666666666,
+    "support": 12.0
+  },
+  "2_phone_whatsapp": {
+    "precision": 0.7692307692307693,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.8,
+    "support": 12.0
+  },
+  "3_partly_digital": {
+    "precision": 0.6363636363636364,
+    "recall": 0.5833333333333334,
+    "f1-score": 0.6086956521739131,
+    "support": 12.0
+  },
+  "4_cloud_adopting": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1-score": 0.5,
+    "support": 12.0
+  },
+  "5_cloud_mature": {
+    "precision": 0.75,
+    "recall": 0.75,
+    "f1-score": 0.75,
+    "support": 12.0
+  },
+  "accuracy": 0.7166666666666667,
+  "macro avg": {
+    "precision": 0.7144522144522145,
+    "recall": 0.7166666666666667,
+    "f1-score": 0.715072463768116,
+    "support": 60.0
+  },
+  "weighted avg": {
+    "precision": 0.7144522144522144,
+    "recall": 0.7166666666666667,
+    "f1-score": 0.7150724637681161,
+    "support": 60.0
+  }
+}

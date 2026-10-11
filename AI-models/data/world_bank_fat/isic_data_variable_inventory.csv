@@ -1,0 +1,5 @@
+column,description,missing_count,unique_values
+firmid,,0,21055
+isic4d,,6063,402
+isic3d,,6063,214
+isic2d,,4563,81

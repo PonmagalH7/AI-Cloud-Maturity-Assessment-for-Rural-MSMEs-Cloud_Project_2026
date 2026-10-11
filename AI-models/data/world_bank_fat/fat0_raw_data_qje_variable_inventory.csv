@@ -1,0 +1,724 @@
+column,description,missing_count,unique_values
+s1b,Sampling size,0,3
+s4,Multi-Establishment,16,2
+s7,Number of workers (screener),0,789
+a3b,Private foreign ownership %,1989,78
+a4b,Founder - Ownership,954,3
+a5a,Sector - group,0,13
+a6,Year of beginning operations,317,140
+a7a,Top Manager - Experience Same Sector,1612,80
+a7b,Top Manager - Female,174,3
+a7c,Top Manager - Highest Education,1493,7
+a7d,Top Manager - Studied Abroad,1572,3
+b1a,Electrical Connection,6135,2
+b1b,Power Outages - Year,1674,2
+b4a,No. of Desktop or Laptops,600,243
+b5a,Internet connection,12,2
+b7a,Production compared to other firms in country,189,10
+b7b,Production compared to other firms in world,328,10
+b8c,"Years using b8a4, b8a5",12505,53
+b9c,"Years using b9a4, b9a5",19688,35
+b10c,"Years using b10a4, b10a5",19834,29
+b11c,"Years using b11a4, b11a5",19581,32
+b12c,"Years using b12a3, b12a4, b12a5, b12a6",19082,38
+b13d,"Years using b12b4, b13b5, b13b6",17140,49
+b14c,"Years using b14a5, b14a6",8615,58
+b15c,"Years using b15a4, b15a5",19413,37
+c1_1d,Years using c1_1b4,20948,28
+c1_2d,"Years using c1_2b5, c1_2b6",20717,30
+c1_3d,"Years using c1_3b6, c1_3b7",20993,14
+c1_4d,"Years using c1_4b4, c1_4b5",20854,29
+c1_5d,"Years using c1_5b3, c1_5b4, c1_5b5",20769,34
+c1_6d,"Years using c1_6b, c1_6b4",20952,27
+c2_1d,"Years using c2_1b3, c2_1b4",20948,26
+c2_2d,"Years using c2_2b5, c2_2b6, c2_2b7",20863,31
+c2_3d,"Years using c2_3b3, c2_3b4",20805,33
+c2_4d,"Years using c2_4b5, c2_4b6, c2_4b7",21027,13
+c2_5d,Years using c2_5b4,21005,17
+c3_1d,Years using c3_1b4,20871,29
+c3_2d,"Years using c3_2b3, c3_2b4",20030,45
+c3_3d,"Years using c3_3b3, c3_3b4",20441,44
+c3_4d,"Years using c3_4b3, c_3b4",20239,41
+c3_5d,"Years using c3_5b3, c3_5b4",20239,51
+c4_1d,"Years using c4_1b2, c4_1b3",20553,27
+c4_2d,"Years using c4_2b4, c4_2b5",20875,26
+c4_3d,"Years using c4_3b3, c4_3b4, c4_3b5",20216,36
+c4_4d,"Years using c4_4b3, c4_4b4, c4_4b5",20800,26
+c5_1d,"Years using c5_1b4, c5_1b5, c5_1b6",20993,20
+c5_2d,"Years using c5_2b4, c5_2b5 ,c5_2b6",21008,14
+c5_3d,"Years using c5_3b3, c5_3b4",21029,12
+c5_4d,"Years using c5_4b3, c5_4b4",21019,15
+c5_5d,"Years using c5_5b2, c5_5b3",20777,27
+c6_1d,"Years using c6_1b3, c6_1b4",20805,28
+c6_2d,Years using c6_2b4,20851,28
+c6_3d,"Years using c6_3b3, c6_3b4, c6_3b5",20755,30
+c6_4d,"Years using c6_4b3, c6_4b4",20885,27
+c6_5d,"Years using c6_5b2, c6_5b3",20736,30
+c6_6d,"Years using c6_6b2, c6_6b3",20686,33
+c7_1d,"Years using c7_1b3, c7_1b4, c7_1b5",20166,35
+c7_2d,"Years using c7_2b4, c7_2b5",20711,30
+c7_3d,"Years using c7_3b3, c7_3b4",20570,31
+c7_4d,"Years using c7_4b4, c7_4b5",20810,28
+c7_5d,"Years using c7_5b5, c7_5b6",20775,27
+c8_1d,"Years using c8_1b3, c8_1b4",20558,33
+c8_2d,"Years using c8_2b4, c8_2b5, c8_2b6",20731,29
+c8_3d,"Years using c8_3b2, c8_3b4",20799,32
+c8_4d,"Years using c8_4b3, c8_4b4",20798,28
+c8_5d,"Years using c8_5b2, c8_5b3",20566,35
+c9_1d,"Years using c9_1b3, c9_1b4",20917,23
+c9_2d,"Years using c9_2b3, c9_2b4, c9_2b5",20786,25
+c9_3d,"Years using c9_3b3, c9_3b4, c9_3b5",20766,25
+c9_4d,"Years using c9_4b3, c9_4b4, c9_4b5",20779,26
+c9_5d,"Years using c9_5b3, c9_5b4",20876,22
+c10_2d,"Years using c10_2b3, c10_2b4",20844,24
+c10_3d,"Years using c10_3b3, c10_3b4",20624,30
+c10_4d,Years using c10_4c2,20797,27
+c11_1d,"Years using c11_1b2, c11_1b3",20862,20
+c11_2d,"Years using c11_2b4, c11_2b5",20966,17
+c11_3d,"Years using c11_3b3, c11_3b4, c11_cb5",20765,21
+c11_4d,"Years using c11_4b3, c11_4b4, c11_4b5",20951,19
+d1a,Purchase/Lease - Equip. or Mach.,589,4
+d1b,Purchase or Lease - Software License,807,2
+d1c,"Dev., Custom. or Modif. of Machine or Software",7023,2
+d3a,"Loan - mach., equip or licensing",1161,2
+d3c,No. - needed to borrow but not get it,2428,25
+d4a,"Formal Incentives - Money, gift, or recognition",671,2
+d4b,No. KPIs monitored,578,4
+d4c,Frequency monitoring the KPIs,16211,7
+d4d,Time frame - production targets,14637,4
+d6a,Did export?,509,3
+d6b,Direct Exports (% of sales),17349,391
+d6c,"Imported inputs, machines or equipment?",734,2
+e1a,"No. of permanent workers, full-time (ref_year1)",975,689
+e1b,"No. of permanent workers, part-time (ref_year1)",14651,104
+e1c,"No. of temporary or seasonal workers, full-time (ref_year1)",14655,87
+e1d,"No. of temporary or seasonal workers, part-time (ref_year1)",14658,45
+e5c,% of workers - vocational training,5804,95
+e5d,% of workers - completed college degree or more,3352,101
+e6a,Total sales (ref_year1),5557,7501
+e7a,Total labor cost (ref_year1),4327,6912
+e7b,Total material cost (ref_year1),5211,6270
+e7c,Total energy cost (ref_year1),4838,4098
+e7d,Operation cost (ref_year1),4326,9462
+e8a,Equipment cost (ref_year1),6092,3980
+e8b,Building cost (ref_year1),6280,2986
+e10a,Main product - % share in total sales,9750,99
+e10b,Main product - average markup,10292,115
+country,Country,0,16
+firmid,,0,21055
+s1c_rev,Sampling location,0,8
+formality,Formal Sector,0,2
+base_wt,Sampling Weight,1,2951
+e1,Total no. workers by end of (ref_year1),7656,538
+db8a1,Adopted - Business Administration - Handwritten Processes,452,2
+db8a2,Adopted - Business Administration - Computers (standard softwares),415,2
+db8a3,Adopted - Business Administration - Mobile Apps or Digital Platform,613,2
+db8a4,Adopted - Business Administration - Computers (specialised softwares),549,2
+db8a5,Adopted - Business Administration - ERP,948,2
+db9a1,Adopted - Production Planning - Handwritten processes,754,2
+db9a2,Adopted - Production Planning - Computers (standard softwares),732,2
+db9a3,Adopted - Production Planning - Mobile Apps or digital platforms,873,2
+db9a4,Adopted - Production Planning - Specialized software,971,2
+db9a5,Adopted - Production Planning - ERP,1198,2
+db10a1,Adopted - Suppliers - manual search,3501,2
+db10a2,Adopted - Suppliers - management of supply chain info,3524,2
+db10a3,Adopted - Suppliers - online social media,3654,2
+db10a4,Adopted - Suppliers - SRM (not integrated w prod planning),3882,2
+db10a5,Adopted - Suppliers - SRM (integrated w prod planning),3990,2
+db11a1,Adopted - Marketing - Face to Face Chat,879,2
+db11a2,Adopted - Marketing - Online Chat,902,2
+db11a3,Adopted - Marketing - Structured Surveys,1061,2
+db11a4,Adopted - Marketing - CRM,1339,2
+db11a5,Adopted - Marketing - Big Data Analytics,1319,2
+db12a1,Adopted - Fabrication - Manual,13780,2
+db12a2,Adopted - Fabrication - Machines w/o computer,13782,2
+db12a3,Adopted - Fabrication - Computer,13821,2
+db12a4,Adopted - Fabrication - Robots,13831,2
+db12a5,Adopted - Fabrication - Additive manufacturing,13851,2
+db12a6,Adopted - Fabrication - Other Adv. Processes,13872,2
+db13b1,Adopted - Sales - Establishment Premises,988,2
+db13b2,"Adopted - Sales - Phone, email or sales representatives",1083,2
+db13b3,Adopted - Sales - Social media platforms/apps,1156,2
+db13b4,Adopted - Sales - Online Sales (ext. dig. platforms),1254,2
+db13b5,Adopted - Sales - Online Sales (own website),1206,2
+db13b6,Adopted - Sales - Electronic orders,1390,2
+db14a1,Adopted - Payment - goods exchange,1724,2
+db14a2,Adopted - Payment - cash,187,2
+db14a3,"Adopted - Payment - Cheque, voucher, bank wire",224,2
+db14a4,Adopted - Payment - Cards,297,2
+db14a5,Adopted - Payment - Online/electronic,255,2
+db14a6,Adopted - Payment - Online (platforms),355,2
+db14a7,Adopted - Payment - Cryptocurrency,2054,2
+db15a1,"Adopted - Quality Control - Manual, Visual or Written",1685,2
+db15a2,Adopted - Quality Control - Human Inspection,1720,2
+db15a3,Adopted - Quality Control - Statistical Control,1863,2
+db15a4,Adopted - Quality Control - Automated,1915,2
+dc1_0a1,Adopted - Crops: Info. sources - Radio,20037,2
+dc1_0a2,Adopted - Crops: Info. sources - TV,20030,2
+dc1_0a3,Adopted - Crops: Info. sources - Non-internet mobile,20037,2
+dc1_0a4,Adopted - Crops: Info. sources - Mobile internet tech,20033,2
+dc1_0a5,Adopted - Crops: Info. sources - Meet other producers,20033,2
+dc1_0a6,Adopted - Crops: Info. sources - Pub. or Pvt. agent visit,20041,2
+dc1_0a7,Adopted - Crops: Info. sources - Precision agriculture,20039,2
+dc1_1b1,Adopted - Land prep - Manual plowing (simple tools),20196,2
+dc1_1b2,Adopted - Land prep - Animal Aided,20198,2
+dc1_1b3,Adopted - Land prep - Manually operated machines,20193,2
+dc1_1b4,Adopted - Land prep - Digitally operated tractors or equipment,20195,2
+dc1_2b1,"Adopted - Irrig.- Rain-fed, no additional irrig.",20067,2
+dc1_2b2,Adopted - Irrig. - Manual irrig.,20331,2
+dc1_2b3,Adopted - Irrig. - Surface Flood Irrig.,20333,2
+dc1_2b4,Adopted - Irrig. - Small Pump,20335,2
+dc1_2b5,"Adopted - Irrig. - Drip, localized, underground, Sprinkler, centre pivot",20334,2
+dc1_2b6,Adopted - Irrig. - Automated,20335,2
+dc1_3b1,Adopted - Weeding/pest control - Manual application,20236,2
+dc1_3b2,Adopted - Weeding/pest control - Mechanical application,20234,2
+dc1_3b3,Adopted - Weeding/pest control - Biological methods,20251,2
+dc1_3b4,Adopted - Weeding/pest control - Precision agriculture,20253,2
+dc1_3b5,Adopted - Weeding/pest control - Advanced precision agriculture,20251,2
+dc1_4b1,"Adopted - Harvesting, training, or pruning - Manual",20257,2
+dc1_4b2,"Adopted - Harvesting, training, or pruning - Animal Aided",20264,2
+dc1_4b3,"Adopted - Harvesting, training, or pruning - Human-operated machines",20263,2
+dc1_4b4,"Adopted - Harvesting, training, or pruning - Manually mechanised",20270,2
+dc1_4b5,"Adopted - Harvesting, training, or pruning - Digitally automated",20270,2
+dc1_5b1,Adopted - Storage facility - Precarious,20317,2
+dc1_5b2,Adopted - Storage facility - Protected (w/o temp. control),20309,2
+dc1_5b3,Adopted - Storage facility - Special Storage (temp. control),20315,2
+dc1_5b4,Adopted - Storage facility - High-end central storage,20314,2
+dc1_5b5,Adopted - Storage facility - Cont. temp. monitoring,20321,2
+dc1_6b1,Adopted - Packing - Manual,20468,2
+dc1_6b2,Adopted - Packing - Human-operated mech. equip.,20465,2
+dc1_6b3,Adopted - Packing - Automated,20471,2
+dc1_6b4,Adopted - Packing - Modified atmosphere,20473,2
+dc2_0a1,Adopted - Livestock: Info sources - Radio,20655,2
+dc2_0a2,Adopted - Livestock: Info sources - TV,20655,2
+dc2_0a3,Adopted - Livestock: Info sources - Non-internet mobile,20668,2
+dc2_0a4,Adopted - Livestock: Info sources - Mobile internet tech,20664,2
+dc2_0a5,Adopted - Livestock: Info sources - Meet other producers,20645,2
+dc2_0a6,Adopted - Livestock: Info sources - Pub or pvt agen visits,20667,2
+dc2_0a7,Adopted - Livestock: Info sources - Precision agri tools,20668,2
+dc2_1b1,Adopted - Breeding/genetic - Breed substitution,20807,2
+dc2_1b2,Adopted - Breeding/genetic - Inbreeding or Crossbreeding,20791,2
+dc2_1b3,Adopted - Breeding/genetic - Artificial insemination (AI),20790,2
+dc2_1b4,Adopted - Breeding/genetic - Selective breeding,20798,2
+dc2_2b1,Adopted - Animal nutrition - Household waste or fibrous crop residues,20678,2
+dc2_2b2,Adopted - Animal nutrition - Natural grasslands and pastures,20676,2
+dc2_2b3,Adopted - Animal nutrition - Integrated crop-livestock systems,20683,2
+dc2_2b4,Adopted - Animal nutrition - Production of forage crops,20683,2
+dc2_2b5,Adopted - Animal nutrition - Production of supplementary feed,20679,2
+dc2_2b6,Adopted - Animal nutrition - Manu. or mixing of feed,20683,2
+dc2_2b7,Adopted - Animal nutrition - Prod. of genetically-modified feed,20686,2
+dc2_3b1,Adopted - Animal healthcare - Rapid diagnostic tests,20716,2
+dc2_3b2,Adopted - Animal healthcare - Pest sprays,20708,2
+dc2_3b3,Adopted - Animal healthcare - Vaccines,20712,2
+dc2_3b4,Adopted - Animal healthcare - DNA or RNA vaccine,20738,2
+dc2_3b5,Adopted - Animal healthcare - Disease med.,20711,2
+dc2_4b1,Adopted - Herd mgt/monitoring - Human,20681,2
+dc2_4b2,Adopted - Herd mgt/monitoring - Animal-aided,20684,2
+dc2_4b3,Adopted - Herd mgt/monitoring - Feedlots or grazing,20688,2
+dc2_4b4,Adopted - Herd mgt/monitoring - Automated cameras/video,20689,2
+dc2_4b5,Adopted - Herd mgt/monitoring - Unmanned aerial,20685,2
+dc2_4b6,Adopted - Herd mgt/monitoring - Analog tracking,20687,2
+dc2_4b7,Adopted - Herd mgt/monitoring - Digital tracking,20688,2
+dc2_5b1,Adopted - Transp. livestock - Manual,20766,2
+dc2_5b2,Adopted - Transp. livestock - Non-motorized vehicles,20766,2
+dc2_5b3,Adopted - Transp. livestock - Motorized vehicles,20765,2
+dc2_5b4,Adopted - Transp. livestock - Specialized/climate-controlled vehicles,20767,2
+dc3_1b1,Adopted - Input testing - Sensory,19261,2
+dc3_1b2,Adopted - Input testing - Review of supplier testing,19281,2
+dc3_1b3,Adopted - Input testing - Non-computer-controlled,19304,2
+dc3_1b4,Adopted - Input testing - Computer testing,19313,2
+dc3_2b1,Adopted - Food prep. - Manual,19195,2
+dc3_2b2,Adopted - Food prep. - Mech. equipment (human force),19198,2
+dc3_2b3,Adopted - Food prep. - Power equipment (human interaction),19204,2
+dc3_2b4,"Adopted - Food prep. - Power equipment (computers or robotics, minimal int.)",19213,2
+dc3_3b1,Adopted - Anti-bacterial - Minimal-processing preservation,19544,2
+dc3_3b2,Adopted - Anti-bacterial - Anti-bacterial wash or soaking,19525,2
+dc3_3b3,Adopted - Anti-bacterial - Thermal Processing,19525,2
+dc3_3b4,Adopted - Anti-bacterial - Other adv. methods,19564,2
+dc3_4b1,Adopted - Food pkg. - Manual,19130,2
+dc3_4b2,Adopted - Food pkg. - Human-operated mech. equip.,19130,2
+dc3_4b3,Adopted - Food pkg. - Power equip. (human interaction),19138,2
+dc3_4b4,"Adopted - Food pkg. - Power equip. (comp./robotics, min. human int.)",19144,2
+dc3_5b1,Adopted - Food storage - Minimal protection (some exposure),19348,2
+dc3_5b2,Adopted - Food storage - Ambient conditions (closed building),19350,2
+dc3_5b3,Adopted - Food storage - Some climate control (secured building),19351,2
+dc3_5b4,Adopted - Food storage - Automated climate (security-controlled building),19358,2
+dc4_1b1,Adopted - Design drawing - Manual/hand-draw,19926,2
+dc4_1b2,Adopted - Design drawing - Digital/semi-digital design,19938,2
+dc4_1b3,Adopted - Design drawing - CAD,19950,2
+dc4_2b1,Adopted - Cutting - Manual cutting,19671,2
+dc4_2b2,Adopted - Cutting - Cutting machine (manually operated),19665,2
+dc4_2b3,Adopted - Cutting - Semi-Automatic cutting machine,19682,2
+dc4_2b4,Adopted - Cutting - Automatic/Computerized cutting machine (no Laser),19701,2
+dc4_2b5,Adopted - Cutting - Automatic/Computerized cutting machine (Laser),19702,2
+dc4_3b1,Adopted - Sewing - Manually,19644,2
+dc4_3b2,Adopted - Sewing - Machine (manually operated),19631,2
+dc4_3b3,Adopted - Sewing - Semi-automated machines,19649,2
+dc4_3b4,Adopted - Sewing - Automated machines,19654,2
+dc4_3b5,Adopted - Sewing - 3D Knitting,19676,2
+dc4_4b1,Adopted - Finishing/ironing - Basic manual ironing,19730,2
+dc4_4b2,Adopted - Finishing/ironing - Electric high-pressure steam iron,19729,2
+dc4_4b3,Adopted - Finishing/ironing - Tunnel finisher,19758,2
+dc4_4b4,Adopted - Finishing/ironing - Form finishing machine,19757,2
+dc4_4b5,Adopted - Finishing/ironing - High tech pressing machine,19755,2
+dc5_1b1,Adopted - Assembly/fabrication - Machines (controlled by operators),20908,2
+dc5_1b2,Adopted - Assembly/fabrication - FMC or FMS,20916,2
+dc5_1b3,Adopted - Assembly/fabrication - Lasers (materials processing),20917,2
+dc5_1b4,Adopted - Assembly/fabrication - CNC machinery,20912,2
+dc5_1b5,Adopted - Assembly/fabrication - Robots,20914,2
+dc5_1b6,Adopted - Assembly/fabrication - Additive manufacturing,20915,2
+dc5_2b1,Adopted - Body press/welding - Pressing of skin panels (operators),20799,2
+dc5_2b2,Adopted - Body press/welding - Pressing of structural components (operators),20799,2
+dc5_2b3,Adopted - Body press/welding - Welding of main body (operators),20799,2
+dc5_2b4,Adopted - Body press/welding - Pressing of skin panels (automated),20800,2
+dc5_2b5,Adopted - Body press/welding - Pressing of structural components (automated),20800,2
+dc5_2b6,Adopted - Body press/welding - Welding of main body (automated),20800,2
+dc5_3b1,Adopted - Painting - Water-based painting (operators),20826,2
+dc5_3b2,Adopted - Painting - Solvent-based painting (operators),20821,2
+dc5_3b3,Adopted - Painting - Water-based painting (automated),20829,2
+dc5_3b4,Adopted - Painting - Solvent-based painting (automated),20830,2
+dc5_4b1,Adopted - Plastic injection- Non-visible interior plastic (operators),20889,2
+dc5_4b2,Adopted - Plastic injection - Plastic exterior body parts (operators),20889,2
+dc5_4b3,Adopted - Plastic injection- Non-visible interior plastic (robotics),20891,2
+dc5_4b4,Adopted - Plastic injection - Plastic exterior body parts (robotics),20890,2
+dc5_5b1,Adopted - Productive asset mgt. - Breakdown maintenance,20639,2
+dc5_5b2,Adopted - Productive asset mgt. - Preventative/predictive maintenance,20642,2
+dc5_5b3,Adopted - Productive asset mgt. - Model Based Condition Monitoring,20643,2
+dc6_1b1,Adopted - Air filtration - Unfiltered air,20595,2
+dc6_1b2,Adopted - Air filtration - Basic,20605,2
+dc6_1b3,Adopted - Air filtration - HEPA,20613,2
+dc6_1b4,"Adopted - Air filtration - Ultra HEPA, pressurization control",20616,2
+dc6_2b1,Adopted - Weighting - Beam Scales,20518,2
+dc6_2b2,Adopted - Weighting - Analog Scales,20511,2
+dc6_2b3,Adopted - Weighting - Electronic Scales,20504,2
+dc6_2b4,Adopted - Weighting - Automated Weighing,20516,2
+dc6_3b1,Adopted - Mixing/compounding - Manual,20514,2
+dc6_3b2,Adopted - Mixing/compounding - Planetary Mixers OR homogenizers,20516,2
+dc6_3b3,"Adopted - Mixing/compounding - High Speed, High Shear Granulators",20524,2
+dc6_3b4,Adopted - Mixing/compounding - Fluid Bed Processors (not with syrups),20528,2
+dc6_3b5,Adopted - Mixing/compounding - Fully Automated Compounding,20522,2
+dc6_4b1,Adopted - Compression/encapsulation - Manual,20794,2
+dc6_4b2,Adopted - Compression/encapsulation - Motorized,20792,2
+dc6_4b3,Adopted - Compression/encapsulation - Automated,20795,2
+dc6_4b4,Adopted - Compression/encapsulation - Integrated,20802,2
+dc6_5b1,"Adopted - Quality control - Manual, titrimetric/chromatographic",20559,2
+dc6_5b2,Adopted - Quality control - Elec. chromatography,20570,2
+dc6_5b3,Adopted - Quality control - Elec. chromatography w data acquisition,20574,2
+dc6_6b1,Adopted - Packaging - Manual filling pills or syrups,20534,2
+dc6_6b2,"Adopted - Packaging - Slat Counters, Cottoners, etc; machine filling",20539,2
+dc6_6b3,"Adopted - Packaging - Automated, integrated packaging lines",20541,2
+dc7_1b1,Adopted - Cust. serv. - Store,18551,2
+dc7_1b2,Adopted - Cust. serv. - Phone or Help Desk,18549,2
+dc7_1b3,Adopted - Cust. serv. - Social Media,18558,2
+dc7_1b4,Adopted - Cust. serv. - Online requests,18564,2
+dc7_1b5,Adopted - Cust. serv. - Chatbots,18575,2
+dc7_2b1,Adopted - Pricing - Manual Cost,18541,2
+dc7_2b2,Adopted - Pricing - Automated markup,18537,2
+dc7_2b3,Adopted - Pricing - Automated promotional,18545,2
+dc7_2b4,Adopted - Pricing - Dynamic pricing systems,18560,2
+dc7_2b5,Adopted - Pricing - Personalized pricing (predictive analytics),18569,2
+dc7_3b1,Adopted - Merchandising - Manually selection,18711,2
+dc7_3b2,Adopted - Merchandising - Category mgt.,18729,2
+dc7_3b3,Adopted - Merchandising - Retail Merch. Systems or Digital Merch.,18754,2
+dc7_3b4,Adopted - Merchandising - Product trend analytics,18764,2
+dc7_4b1,Adopted - Inventory - Handwritten record keeping,18349,2
+dc7_4b2,Adopted - Inventory - Computer databases (manual updates),18348,2
+dc7_4b3,Adopted - Inventory - WMS (specialised software),18353,2
+dc7_4b4,"Adopted - Inventory - CAO, vendor-managed, and/or radio-frequency identification",18403,2
+dc7_4b5,Adopted - Inventory - AS/RS,18418,2
+dc7_5b1,Adopted - Ad channels - Paper based communication,19557,2
+dc7_5b2,"Adopted - Ad channels - Radio, Billboards, TV",19561,2
+dc7_5b3,Adopted - Ad channels - Email or mobile phone,19559,2
+dc7_5b4,Adopted - Ad channels - Social Media,19561,2
+dc7_5b5,Adopted - Ad channels - Search Engine Marketing,19584,2
+dc7_5b6,Adopted - Ad channels - Big data Analytics or AI,19578,2
+dc8_1b1,Adopted - Cust. serv. - Teller,20450,2
+dc8_1b2,Adopted - Cust. serv. - ATM machines,20451,2
+dc8_1b3,Adopted - Cust. serv. - On-line on company website,20454,2
+dc8_1b4,Adopted - Cust. serv. - Mobile app,20451,2
+dc8_2b1,Adopted - Verification id - Teller,20445,2
+dc8_2b2,Adopted - Verification id - online passwords,20457,2
+dc8_2b3,Adopted - Verification id - online passwords (combined),20458,2
+dc8_2b4,Adopted - Verification id - Digital auth.,20469,2
+dc8_2b5,Adopted - Verification id - Biometrics,20457,2
+dc8_2b6,Adopted - Verification id - Blockchain,20487,2
+dc8_3b1,Adopted - Loan app - Loan officer (paper-based),20436,2
+dc8_3b2,Adopted - Loan app - Mobile app + paper,20441,2
+dc8_3b3,Adopted - Loan app - Channel partners,20439,2
+dc8_4b1,Adopted - Credit approvals - Analyst (paper-based),20460,2
+dc8_4b2,Adopted - Credit approvals - Analyst (digital info),20452,2
+dc8_4b3,Adopted - Credit approvals - Automated,20453,2
+dc8_4b4,Adopted - Credit approvals - Algorithm (AI or Big-Data),20473,2
+dc8_5b1,Adopted - Op. supp. - writing records,20452,2
+dc8_5b2,Adopted - Op. supp. - dig. accounting (PCs),20451,2
+dc8_5b3,Adopted - Op. supp. - dig. network,20459,2
+dc9_1b1,Adopted - Transportation planning - handwritten info.,20362,2
+dc9_1b2,Adopted - Transportation planning - electronic file share,20372,2
+dc9_1b3,Adopted - Transportation planning - installed software,20390,2
+dc9_1b4,Adopted - Transportation planning - real time info. with ERP,20393,2
+dc9_2b1,"Adopted - Loading - Manual process (fax, text, phone)",20334,2
+dc9_2b2,Adopted - Loading - Manual process (dig. platforms),20348,2
+dc9_2b3,Adopted - Loading - web-based,20349,2
+dc9_2b4,Adopted - Loading - specific software interface via Internet,20357,2
+dc9_2b5,Adopted - Loading - file exchange (ERP integrated apps),20374,2
+dc9_3b1,"Adopted - Monitoring load/delivery - Event driven (fax, text, phone calls)",20326,2
+dc9_3b2,Adopted - Monitoring load/delivery - Event driven (digital),20344,2
+dc9_3b3,Adopted - Monitoring load/delivery - Paper documentation,20349,2
+dc9_3b4,Adopted - Monitoring load/delivery - installed softwares,20348,2
+dc9_3b5,Adopted - Monitoring load/delivery - ERP integrated apps,20358,2
+dc9_4b1,Adopted - Transp. perf. - manually,20277,2
+dc9_4b2,Adopted - Transp. perf. - computer (non-specialized software),20292,2
+dc9_4b3,Adopted - Transp. perf. - computer (specialised transp. reporting),20294,2
+dc9_4b4,Adopted - Transp. perf. - installed software,20301,2
+dc9_4b5,Adopted - Transp. perf. - file exchange between ERP integrated,20308,2
+dc9_5b1,Adopted - Fleet management - manual,20281,2
+dc9_5b2,Adopted - Fleet management - electronic file,20291,2
+dc9_5b3,Adopted - Fleet management - ETM,20312,2
+dc9_5b4,Adopted - Fleet management - ERP and software,20302,2
+dc10_1a1,Adopted - Hosp. facilities - ER,20230,2
+dc10_1a2,Adopted - Hosp. facilities - Postoperative care area,20220,2
+dc10_1a3,Adopted - Hosp. facilities - ICU,20236,2
+dc10_1a4,Adopted - Hosp. facilities - Blood Bank,20269,2
+dc10_1a5,Adopted - Hosp. facilities - Testing labs,20246,2
+dc10_1a6,Adopted - Hosp. facilities - X-ray,20210,2
+dc10_1a7,Adopted - Hosp. facilities - ultrasound machine,20219,2
+dc10_1a8,Adopted - Hosp. facilities - CT scan,20229,2
+dc10_1a9,Adopted - Hosp. facilities - MRI machine,20231,2
+dc10_1a11,Adopted - Hosp. facilities - Pulse oximetry,20212,2
+dc10_1a10,Adopted - Hosp. facilities - ultrasound machine,20225,2
+dc10_2b1,Adopted - Scheduling - Personal visit and paper,20294,2
+dc10_2b2,"Adopted - Scheduling - Phone call, SMS, or Email",20295,2
+dc10_2b3,Adopted - Scheduling - Software or app (w/o automated reminders),20305,2
+dc10_2b4,Adopted - Scheduling - Software or app (w automated reminders),20300,2
+dc10_3b1,Adopted - Patient records - Handwritten process,20177,2
+dc10_3b2,Adopted - Patient records - Digital patient records,20175,2
+dc10_3b3,Adopted - Patient records - EHR,20190,2
+dc10_3b4,Adopted - Patient records - Cloud-based HER,20203,2
+dc10_4c1,Adopted - Med. mgt./admin. - Handwritten,20172,2
+dc10_4c2,Adopted - Med. mgt./admin. - Barcode/electronic id,20178,2
+dc10_5a1,Always available- Sepsis treat. - antibiotics,20320,2
+dc10_5a2,Always available- Sepsis treat. - adv. therapies,20342,2
+dc10_5a3,Always available- Childbirth - C-section,20444,2
+dc10_5a4,Always available- Childbirth - High-risk labor,20446,2
+dc10_5a5,Always available- Trauma - Traction (closed fracture),20379,2
+dc10_5a6,Always available- Trauma - Open Treatment of Fracture,20381,2
+dc10_5a7,Always available- Myocardial infarction/Strokes - defibrillation,20358,2
+dc10_5a8,Always available- Myocardial infarction/Strokes - angiography,20406,2
+dc11_1b1,Adopted - Design - Manual,20510,2
+dc11_1b2,Adopted - Design - Digital or semi-digital,20513,2
+dc11_1b3,"Adopted - Design - CAD, 3D, or virtual",20515,2
+dc11_2b1,Adopted - Cutting - Manual,20412,2
+dc11_2b2,Adopted - Cutting - Machine manually-operated,20413,2
+dc11_2b3,Adopted - Cutting - Semi-automatic machine,20414,2
+dc11_2b4,Adopted - Cutting - Automatic/Computerised (no Laser),20416,2
+dc11_2b5,Adopted - Cutting - Automatic/Computerised (Laser),20413,2
+dc11_3b1,Adopted - Sewing - Manually,20435,2
+dc11_3b2,Adopted - Sewing - Machine (manually),20435,2
+dc11_3b3,Adopted - Sewing - Machine (semi-automated),20437,2
+dc11_3b4,Adopted - Sewing - Machine (automated),20437,2
+dc11_3b5,Adopted - Sewing - 3D Knitting,20437,2
+dc11_4b1,Adopted - Assembly/Finishing - manual,20433,2
+dc11_4b2,Adopted - Assembly/Finishing - conveyor/assembly (static/semi-automated),20434,2
+dc11_4b3,Adopted - Assembly/Finishing - conveyor/assembly (dynamic/automated),20433,2
+dc11_4b4,Adopted - Assembly/Finishing - injection machine,20434,2
+dc11_4b5,Adopted - Assembly/Finishing - 3D printing,20434,2
+dc12_1b1,Adopted - Reservations - handwritten,20307,2
+dc12_1b2,Adopted - Reservations - digital (std software),20314,2
+dc12_1b3,Adopted - Reservations - dedicated,20315,2
+dc12_1b4,Adopted - Reservations - PMS,20338,2
+dc12_1b5,Adopted - Reservations - cloud-based,20339,2
+dc12_2b1,Adopted - Accom Pricing - manual cost,20347,2
+dc12_2b2,Adopted - Accom Pricing - automated markup,20343,2
+dc12_2b3,Adopted - Accom Pricing - automated promotional,20340,2
+dc12_2b4,Adopted - Accom Pricing - dynamic pricing,20351,2
+dc12_2b5,Adopted - Accom Pricing - personalised pricing,20352,2
+dc12_3b1,Adopted - Housekeeping - handwritten,20308,2
+dc12_3b2,Adopted - Housekeeping - digital (std. software),20305,2
+dc12_3b3,Adopted - Housekeeping - dedicated,20319,2
+dc12_3b4,Adopted - Housekeeping - PMS,20331,2
+dc12_3b5,Adopted - Housekeeping - cloud-based,20339,2
+dc12_4b1,Adopted - Laundry - manual,20378,2
+dc12_4b2,Adopted - Laundry - domestic,20375,2
+dc12_4b3,Adopted - Laundry - industrial (w automatic sheet fold),20393,2
+dc12_4b4,Adopted - Laundry - industrial (w/o automatic sheet fold),20392,2
+dc12_5b1,Adopted - PoS - handwritten,20368,2
+dc12_5b2,Adopted - PoS - digital records,20387,2
+dc12_5b3,Adopted - PoS - specialised software,20391,2
+dc12_5b4,Adopted - PoS - PMS,20406,2
+dc12_5b5,Adopted - PoS - cloud-based,20414,2
+ib8b1,Most used - Business Administration - Handwritten Processes,631,2
+ib8b2,Most used - Business Administration - Computers (standard softwares),631,2
+ib8b3,Most used - Business Administration - Mobile Apps or Digital Platform,631,2
+ib8b4,Most used - Business Administration - Computers (specialised softwares),631,2
+ib8b5,Most used - Business Administration - ERP,631,2
+ib9b1,Most used - Production Planning - Handwritten processes,986,2
+ib9b2,Most used - Production Planning - Computers (standard softwares),986,2
+ib9b3,Most used - Production Planning - Mobile Apps or digital platforms,986,2
+ib9b4,Most used - Production Planning - Specialized software,986,2
+ib9b5,Most used - Production Planning - ERP,986,2
+ib10a1,Most used - Suppliers - manual search,867,2
+ib10a2,Most used - Suppliers - management of supply chain info,867,2
+ib10a3,Most used - Suppliers - online social media,867,2
+ib10a4,Most used - Suppliers - SRM (not integrated w prod planning),867,2
+ib10a5,Most used - Suppliers - SRM (integrated w prod planning),867,2
+ib11b1,Most used - Marketing - Face to Face Chat,1541,2
+ib11b2,Most used - Marketing - Online Chat,1541,2
+ib11b3,Most used - Marketing - Structured Surveys,1541,2
+ib11b4,Most used - Marketing - CRM,1541,2
+ib11b5,Most used - Marketing - Big Data Analytics,1541,2
+ib13c1,Most used - Sales - Establishment Premises,2306,2
+ib13c2,"Most used - Sales - Phone, email or sales representatives",2306,2
+ib13c3,Most used - Sales - Social media platforms/apps,2306,2
+ib13c4,Most used - Sales - Online Sales (ext. dig. platforms),2306,2
+ib13c5,Most used - Sales - Online Sales (own website),2306,2
+ib13c6,Most used - Sales - Electronic orders,2306,2
+ib14b1,Most used - Payment - goods exchange,472,2
+ib14b2,Most used - Payment - cash,472,2
+ib14b3,"Most used - Payment - Cheque, voucher, bank wire",472,2
+ib14b4,Most used - Payment - Cards,472,2
+ib14b5,Most used - Payment - Online/electronic,472,2
+ib14b6,Most used - Payment - Online (platforms),472,2
+ib14b7,Most used - Payment - Cryptocurrency,472,2
+ib15b1,"Most used - Quality Control - Manual, Visual or Written",2075,2
+ib15b2,Most used - Quality Control - Human Inspection,2075,2
+ib15b3,Most used - Quality Control - Statistical Control,2075,2
+ib15b4,Most used - Quality Control - Automated,2075,2
+ib12b1,Most used - Fabrication - Manual,13884,2
+ib12b2,Most used - Fabrication - Machines w/o computer,13884,2
+ib12b3,Most used - Fabrication - Computer,13884,2
+ib12b4,Most used - Fabrication - Robots,13884,2
+ib12b5,Most used - Fabrication - Additive manufacturing,13884,2
+ib12b6,Most used - Fabrication - Other Adv. Processes,13884,2
+ic1_1c1,Most used - Land prep - Manual plowing (simple tools),20213,2
+ic1_1c2,Most used - Land prep - Animal Aided,20213,2
+ic1_1c3,Most used - Land prep - Manually operated machines,20213,2
+ic1_1c4,Most used - Land prep - Digitally operated tractors or equipment,20213,2
+ic1_2c1,"Most used - Irrig.- Rain-fed, no additional irrig.",20084,2
+ic1_2c2,Most used - Irrig. - Manual irrig.,20084,2
+ic1_2c3,Most used - Irrig. - Surface Flood Irrig.,20084,2
+ic1_2c4,Most used - Irrig. - Small Pump,20084,2
+ic1_2c5,"Most used - Irrig. - Drip, localized, underground, Sprinkler, centre pivot",20084,2
+ic1_2c6,Most used - Irrig. - Automated,20084,2
+ic1_3c1,Most used - Weeding/pest control - Manual application,20265,2
+ic1_3c2,Most used - Weeding/pest control - Mechanical application,20265,2
+ic1_3c3,Most used - Weeding/pest control - Biological methods,20265,2
+ic1_3c4,Most used - Weeding/pest control - Precision agriculture,20265,2
+ic1_3c5,Most used - Weeding/pest control - Advanced precision agriculture,20265,2
+ic1_4c1,"Most used - Harvesting, training, or pruning - Manual",20278,2
+ic1_4c2,"Most used - Harvesting, training, or pruning - Animal Aided",20278,2
+ic1_4c3,"Most used - Harvesting, training, or pruning - Human-operated machines",20278,2
+ic1_4c4,"Most used - Harvesting, training, or pruning - Manually mechanised",20278,2
+ic1_4c5,"Most used - Harvesting, training, or pruning - Digitally automated",20278,2
+ic1_5c1,Most used - Storage facility - Precarious,20320,2
+ic1_5c2,Most used - Storage facility - Protected (w/o temp. control),20320,2
+ic1_5c3,Most used - Storage facility - Special Storage (temp. control),20320,2
+ic1_5c4,Most used - Storage facility - High-end central storage,20320,2
+ic1_5c5,Most used - Storage facility - Cont. temp. monitoring,20320,2
+ic1_6c1,Most used - Packing - Manual,20486,2
+ic1_6c2,Most used - Packing - Human-operated mech. equip.,20486,2
+ic1_6c3,Most used - Packing - Automated,20486,2
+ic1_6c4,Most used - Packing - Modified atmosphere,20486,2
+ic2_1c1,Most used - Breeding/genetic - Breed substitution,20803,2
+ic2_1c2,Most used - Breeding/genetic - Inbreeding or Crossbreeding,20803,2
+ic2_1c3,Most used - Breeding/genetic - Artificial insemination (AI),20803,2
+ic2_1c4,Most used - Breeding/genetic - Selective breeding,20803,2
+ic2_2c1,Most used - Animal nutrition - Household waste or fibrous crop residues,20716,2
+ic2_2c2,Most used - Animal nutrition - Natural grasslands and pastures,20716,2
+ic2_2c3,Most used - Animal nutrition - Integrated crop-livestock systems,20716,2
+ic2_2c4,Most used - Animal nutrition - Production of forage crops,20716,2
+ic2_2c5,Most used - Animal nutrition - Production of supplementary feed,20716,2
+ic2_2c6,Most used - Animal nutrition - Manu. or mixing of feed,20716,2
+ic2_2c7,Most used - Animal nutrition - Prod. of genetically-modified feed,20716,2
+ic2_3c1,Most used - Animal healthcare - Rapid diagnostic tests,20715,2
+ic2_3c2,Most used - Animal healthcare - Pest sprays,20715,2
+ic2_3c3,Most used - Animal healthcare - Vaccines,20715,2
+ic2_3c4,Most used - Animal healthcare - DNA or RNA vaccine,20715,2
+ic2_3c5,Most used - Animal healthcare - Disease med.,20715,2
+ic2_4c1,Most used - Herd mgt/monitoring - Human,20688,2
+ic2_4c2,Most used - Herd mgt/monitoring - Animal-aided,20688,2
+ic2_4c3,Most used - Herd mgt/monitoring - Feedlots or grazing,20688,2
+ic2_4c4,Most used - Herd mgt/monitoring - Automated cameras/video,20688,2
+ic2_4c5,Most used - Herd mgt/monitoring - Unmanned aerial,20688,2
+ic2_4c6,Most used - Herd mgt/monitoring - Analog tracking,20688,2
+ic2_4c7,Most used - Herd mgt/monitoring - Digital tracking,20688,2
+ic2_5c1,Most used - Transp. livestock - Manual,20768,2
+ic2_5c2,Most used - Transp. livestock - Non-motorized vehicles,20768,2
+ic2_5c3,Most used - Transp. livestock - Motorized vehicles,20768,2
+ic2_5c4,Most used - Transp. livestock - Specialized/climate-controlled vehicles,20768,2
+ic3_1c1,Most used - Input testing - Sensory,19339,2
+ic3_1c2,Most used - Input testing - Review of supplier testing,19339,2
+ic3_1c3,Most used - Input testing - Non-computer-controlled,19339,2
+ic3_1c4,Most used - Input testing - Computer testing,19339,2
+ic3_2c1,Most used - Food prep. - Manual,19237,2
+ic3_2c2,Most used - Food prep. - Mech. equipment (human force),19237,2
+ic3_2c3,Most used - Food prep. - Power equipment (human interaction),19237,2
+ic3_2c4,"Most used - Food prep. - Power equipment (computers or robotics, minimal int.)",19237,2
+ic3_3c1,Most used - Anti-bacterial - Minimal-processing preservation,19602,2
+ic3_3c2,Most used - Anti-bacterial - Anti-bacterial wash or soaking,19602,2
+ic3_3c3,Most used - Anti-bacterial - Thermal Processing,19602,2
+ic3_3c4,Most used - Anti-bacterial - Other adv. methods,19602,2
+ic3_4c1,Most used - Food pkg. - Manual,19189,2
+ic3_4c2,Most used - Food pkg. - Human-operated mech. equip.,19189,2
+ic3_4c3,Most used - Food pkg. - Power equip. (human interaction),19189,2
+ic3_4c4,"Most used - Food pkg. - Power equip. (comp./robotics, min. human int.)",19189,2
+ic3_5c1,Most used - Food storage - Minimal protection (some exposure),19431,2
+ic3_5c2,Most used - Food storage - Ambient conditions (closed building),19431,2
+ic3_5c3,Most used - Food storage - Some climate control (secured building),19431,2
+ic3_5c4,Most used - Food storage - Automated climate (security-controlled building),19431,2
+ic4_1c1,Most used - Design drawing - Manual/hand-draw,19960,2
+ic4_1c2,Most used - Design drawing - Digital/semi-digital design,19960,2
+ic4_1c3,Most used - Design drawing - CAD,19960,2
+ic4_2c1,Most used - Cutting - Manual cutting,19696,2
+ic4_2c2,Most used - Cutting - Cutting machine (manually operated),19696,2
+ic4_2c3,Most used - Cutting - Semi-Automatic cutting machine,19696,2
+ic4_2c4,Most used - Cutting - Automatic/Computerized cutting machine (no Laser),19696,2
+ic4_2c5,Most used - Cutting - Automatic/Computerized cutting machine (Laser),19696,2
+ic4_3c1,Most used - Sewing - Manually,19680,2
+ic4_3c2,Most used - Sewing - Machine (manually operated),19680,2
+ic4_3c3,Most used - Sewing - Semi-automated machines,19680,2
+ic4_3c4,Most used - Sewing - Automated machines,19680,2
+ic4_3c5,Most used - Sewing - 3D Knitting,19680,2
+ic4_4c1,Most used - Finishing/ironing - Basic manual ironing,19762,2
+ic4_4c2,Most used - Finishing/ironing - Electric high-pressure steam iron,19762,2
+ic4_4c3,Most used - Finishing/ironing - Tunnel finisher,19762,2
+ic4_4c4,Most used - Finishing/ironing - Form finishing machine,19762,2
+ic4_4c5,Most used - Finishing/ironing - High tech pressing machine,19762,2
+ic5_1c1,Most used - Assembly/fabrication - Machines (controlled by operators),20918,2
+ic5_1c2,Most used - Assembly/fabrication - FMC or FMS,20918,2
+ic5_1c3,Most used - Assembly/fabrication - Lasers (materials processing),20918,2
+ic5_1c4,Most used - Assembly/fabrication - CNC machinery,20918,2
+ic5_1c5,Most used - Assembly/fabrication - Robots,20918,2
+ic5_1c6,Most used - Assembly/fabrication - Additive manufacturing,20918,2
+ic5_2c1,Most used - Body press/welding - Pressing of skin panels (operators),20825,2
+ic5_2c2,Most used - Body press/welding - Pressing of structural components (operators),20825,2
+ic5_2c3,Most used - Body press/welding - Welding of main body (operators),20825,2
+ic5_2c4,Most used - Body press/welding - Pressing of skin panels (automated),20825,2
+ic5_2c5,Most used - Body press/welding - Pressing of structural components (automated),20825,2
+ic5_2c6,Most used - Body press/welding - Welding of main body (automated),20825,2
+ic5_3c1,Most used - Painting - Water-based painting (operators),20844,2
+ic5_3c2,Most used - Painting - Solvent-based painting (operators),20844,2
+ic5_3c3,Most used - Painting - Water-based painting (automated),20844,2
+ic5_3c4,Most used - Painting - Solvent-based painting (automated),20844,2
+ic5_4c1,Most used - Plastic injection- Non-visible interior plastic (operators),20906,2
+ic5_4c2,Most used - Plastic injection - Plastic exterior body parts (operators),20906,2
+ic5_4c3,Most used - Plastic injection- Non-visible interior plastic (robotics),20906,2
+ic5_4c4,Most used - Plastic injection - Plastic exterior body parts (robotics),20906,2
+ic5_5c1,Most used - Productive asset mgt. - Breakdown maintenance,20677,2
+ic5_5c2,Most used - Productive asset mgt. - Preventative/predictive maintenance,20677,2
+ic5_5c3,Most used - Productive asset mgt. - Model Based Condition Monitoring,20677,2
+ic6_1c1,Most used - Air filtration - Unfiltered air,20632,2
+ic6_1c2,Most used - Air filtration - Basic,20632,2
+ic6_1c3,Most used - Air filtration - HEPA,20632,2
+ic6_1c4,"Most used - Air filtration - Ultra HEPA, pressurization control",20632,2
+ic6_2c1,Most used - Weighting - Beam Scales,20542,2
+ic6_2c2,Most used - Weighting - Analog Scales,20542,2
+ic6_2c3,Most used - Weighting - Electronic Scales,20542,2
+ic6_2c4,Most used - Weighting - Automated Weighing,20542,2
+ic6_3c1,Most used - Mixing/compounding - Manual,20567,2
+ic6_3c2,Most used - Mixing/compounding - Planetary Mixers OR homogenizers,20567,2
+ic6_3c3,"Most used - Mixing/compounding - High Speed, High Shear Granulators",20567,2
+ic6_3c4,Most used - Mixing/compounding - Fluid Bed Processors (not with syrups),20567,2
+ic6_3c5,Most used - Mixing/compounding - Fully Automated Compounding,20567,2
+ic6_4c1,Most used - Compression/encapsulation - Manual,20801,2
+ic6_4c2,Most used - Compression/encapsulation - Motorized,20801,2
+ic6_4c3,Most used - Compression/encapsulation - Automated,20801,2
+ic6_4c4,Most used - Compression/encapsulation - Integrated,20801,2
+ic6_5c1,"Most used - Quality control - Manual, titrimetric/chromatographic",20595,2
+ic6_5c2,Most used - Quality control - Elec. chromatography,20595,2
+ic6_5c3,Most used - Quality control - Elec. chromatography w data acquisition,20595,2
+ic6_6c1,Most used - Packaging - Manual filling pills or syrups,20580,2
+ic6_6c2,"Most used - Packaging - Slat Counters, Cottoners, etc; machine filling",20580,2
+ic6_6c3,"Most used - Packaging - Automated, integrated packaging lines",20580,2
+ic7_1c1,Most used - Cust. serv. - Store,18633,2
+ic7_1c2,Most used - Cust. serv. - Phone or Help Desk,18633,2
+ic7_1c3,Most used - Cust. serv. - Social Media,18633,2
+ic7_1c4,Most used - Cust. serv. - Online requests,18633,2
+ic7_1c5,Most used - Cust. serv. - Chatbots,18633,2
+ic7_2c1,Most used - Pricing - Manual Cost,18629,2
+ic7_2c2,Most used - Pricing - Automated markup,18629,2
+ic7_2c3,Most used - Pricing - Automated promotional,18629,2
+ic7_2c4,Most used - Pricing - Dynamic pricing systems,18629,2
+ic7_2c5,Most used - Pricing - Personalized pricing (predictive analytics),18629,2
+ic7_3c1,Most used - Merchandising - Manually selection,18865,2
+ic7_3c2,Most used - Merchandising - Category mgt.,18865,2
+ic7_3c3,Most used - Merchandising - Retail Merch. Systems or Digital Merch.,18865,2
+ic7_3c4,Most used - Merchandising - Product trend analytics,18865,2
+ic7_4c1,Most used - Inventory - Handwritten record keeping,18444,2
+ic7_4c2,Most used - Inventory - Computer databases (manual updates),18444,2
+ic7_4c3,Most used - Inventory - WMS (specialised software),18444,2
+ic7_4c4,"Most used - Inventory - CAO, vendor-managed, and/or radio-frequency identificati",18444,2
+ic7_4c5,Most used - Inventory - AS/RS,18444,2
+ic7_5c1,Most used - Ad channels - Paper based communication,19664,2
+ic7_5c2,"Most used - Ad channels - Radio, Billboards, TV",19664,2
+ic7_5c3,Most used - Ad channels - Email or mobile phone,19664,2
+ic7_5c4,Most used - Ad channels - Social Media,19664,2
+ic7_5c5,Most used - Ad channels - Search Engine Marketing,19664,2
+ic7_5c6,Most used - Ad channels - Big data Analytics or AI,19664,2
+ic8_1c1,Most used - Cust. serv. - Teller,20466,2
+ic8_1c2,Most used - Cust. serv. - ATM machines,20466,2
+ic8_1c3,Most used - Cust. serv. - On-line on company website,20466,2
+ic8_1c4,Most used - Cust. serv. - Mobile app,20466,2
+ic8_2c1,Most used - Verification id - Teller,20459,2
+ic8_2c2,Most used - Verification id - online passwords,20459,2
+ic8_2c3,Most used - Verification id - online passwords (combined),20459,2
+ic8_2c4,Most used - Verification id - Digital auth.,20459,2
+ic8_2c5,Most used - Verification id - Biometrics,20459,2
+ic8_2c6,Most used - Verification id - Blockchain,20459,2
+ic8_3c1,Most used - Loan app - Loan officer (paper-based),20482,2
+ic8_3c2,Most used - Loan app - Mobile app + paper,20482,2
+ic8_3c3,Most used - Loan app - Channel partners,20482,2
+ic8_4c1,Most used - Credit approvals - Analyst (paper-based),20484,2
+ic8_4c2,Most used - Credit approvals - Analyst (digital info),20484,2
+ic8_4c3,Most used - Credit approvals - Automated,20484,2
+ic8_4c4,Most used - Credit approvals - Algorithm (AI or Big-Data),20484,2
+ic8_5c1,Most used - Op. supp. - writing records,20464,2
+ic8_5c2,Most used - Op. supp. - dig. accounting (PCs),20464,2
+ic8_5c3,Most used - Op. supp. - dig. network,20464,2
+ic9_1c1,Most used - Transportation planning - handwritten info.,20401,2
+ic9_1c2,Most used - Transportation planning - electronic file share,20401,2
+ic9_1c3,Most used - Transportation planning - installed software,20401,2
+ic9_1c4,Most used - Transportation planning - real time info. with ERP,20401,2
+ic9_2c1,"Most used - Loading - Manual process (fax, text, phone)",20377,2
+ic9_2c2,Most used - Loading - Manual process (dig. platforms),20377,2
+ic9_2c3,Most used - Loading - web-based,20377,2
+ic9_2c4,Most used - Loading - specific software interface via Internet,20377,2
+ic9_2c5,Most used - Loading - file exchange (ERP integrated apps),20377,2
+ic9_3c1,"Most used - Monitoring load/delivery - Event driven (fax, text, phone calls)",20373,2
+ic9_3c2,Most used - Monitoring load/delivery - Event driven (digital),20373,2
+ic9_3c3,Most used - Monitoring load/delivery - Paper documentation,20373,2
+ic9_3c4,Most used - Monitoring load/delivery - installed softwares,20373,2
+ic9_3c5,Most used - Monitoring load/delivery - ERP integrated apps,20373,2
+ic9_4c1,Most used - Transp. perf. - manually,20302,2
+ic9_4c2,Most used - Transp. perf. - computer (non-specialized software),20302,2
+ic9_4c3,Most used - Transp. perf. - computer (specialised transp. reporting),20302,2
+ic9_4c4,Most used - Transp. perf. - installed software,20302,2
+ic9_4c5,Most used - Transp. perf. - file exchange between ERP integrated,20302,2
+ic9_5c1,Most used - Fleet management - manual,20317,2
+ic9_5c2,Most used - Fleet management - electronic file,20317,2
+ic9_5c3,Most used - Fleet management - ETM,20317,2
+ic9_5c4,Most used - Fleet management - ERP and software,20317,2
+ic10_2c1,Most used - Scheduling - Personal visit and paper,20323,2
+ic10_2c2,"Most used - Scheduling - Phone call, SMS, or Email",20323,2
+ic10_2c3,Most used - Scheduling - Software or app (w/o automated reminders),20323,2
+ic10_2c4,Most used - Scheduling - Software or app (w automated reminders),20323,2
+ic10_3c1,Most used - Patient records - Handwritten process,20191,2
+ic10_3c2,Most used - Patient records - Digital patient records,20191,2
+ic10_3c3,Most used - Patient records - EHR,20191,2
+ic10_3c4,Most used - Patient records - Cloud-based HER,20191,2
+ic11_1c1,Most used - Design - Manual,20518,2
+ic11_1c2,Most used - Design - Digital or semi-digital,20518,2
+ic11_1c3,"Most used - Design - CAD, 3D, or virtual",20518,2
+ic11_2c1,Most used - Cutting - Manual,20421,2
+ic11_2c2,Most used - Cutting - Machine manually-operated,20421,2
+ic11_2c3,Most used - Cutting - Semi-automatic machine,20421,2
+ic11_2c4,Most used - Cutting - Automatic/Computerised (no Laser),20421,2
+ic11_3c1,Most used - Sewing - Manually,20442,2
+ic11_3c2,Most used - Sewing - Machine (manually),20442,2
+ic11_3c3,Most used - Sewing - Machine (semi-automated),20442,2
+ic11_3c4,Most used - Sewing - Machine (automated),20442,2
+ic11_4c1,Most used - Assembly/Finishing - manual,20445,2
+ic11_4c2,Most used - Assembly/Finishing - conveyor/assembly (static/semi-automated),20445,2
+ic11_4c3,Most used - Assembly/Finishing - conveyor/assembly (dynamic/automated),20445,2
+ic11_4c4,Most used - Assembly/Finishing - injection machine,20445,2
+ic11_4c5,Most used - Assembly/Finishing - 3D printing,20445,2
+region_id,Region,0,71

@@ -1,4 +1,5 @@
 import math
+import re
 from datetime import datetime, timezone
 from html import escape
 
@@ -126,6 +127,35 @@ def _quick_wins_block(quick_wins):
     </div>"""
 
 
+def _pretty_archetype(label):
+    """'3_partly_digital' -> 'partly digital'"""
+    return re.sub(r"^\d+_", "", str(label)).replace("_", " ")
+
+
+def _ml_block(ml_insight):
+    """Optional, clearly-labelled experimental section. Empty when there is no prediction."""
+    if not ml_insight:
+        return ""
+    others = ", ".join(
+        f"{escape(_pretty_archetype(a['archetype']))} ({escape(_num(a['confidence']))}%)"
+        for a in ml_insight.get("alternatives", [])
+    )
+    next_closest = f"<br>Next closest: {others}" if others else ""
+    return f"""
+    <div class="section">
+      <h2>Profile Match <span class="tag">Experimental</span></h2>
+      <p class="summary-text">
+        Your answers most resemble the <strong>{escape(_pretty_archetype(ml_insight["archetype"]))}</strong>
+        pattern ({escape(_num(ml_insight["confidence"]))}% match).{next_closest}
+      </p>
+      <p class="note">
+        This comes from a model trained on simulated example businesses, not on real
+        assessment results. It does not change your score or maturity level above &mdash;
+        treat it as a conversation starter only.
+      </p>
+    </div>"""
+
+
 def render_report_html(
     business_name,
     business_type,
@@ -139,6 +169,7 @@ def render_report_html(
     next_level=None,
     quick_wins=None,
     source=None,
+    ml_insight=None,
 ):
     level_color = LEVEL_COLORS.get(get_level_number(maturity_level), "#777777")
     generated_at = datetime.now(timezone.utc).strftime("%d %b %Y, %H:%M UTC")
@@ -182,6 +213,7 @@ def render_report_html(
   .score-cell {{ text-align: right; width: 50px; font-weight: 600; }}
   .wins th {{ color: #666; font-weight: 600; border-bottom: 1px solid #eee; }}
   .wins th:not(:first-child) {{ text-align: right; }}
+  .tag {{ font-size: 11px; font-weight: 600; color: #8a5a00; background: #fff3cd; border-radius: 4px; padding: 2px 6px; margin-left: 6px; vertical-align: middle; }}
   .note {{ font-size: 12px; color: #777; margin: 10px 0 8px 0; }}
   .gaps {{ background: #fff3f3; border-left: 4px solid #d9534f; padding: 12px 16px; font-size: 13px; border-radius: 4px; }}
   .summary-text {{ font-size: 14px; line-height: 1.6; color: #333; }}
@@ -239,6 +271,7 @@ def render_report_html(
       <p class="note">{escape(source_note)}</p>
     </div>
 {_quick_wins_block(quick_wins)}
+{_ml_block(ml_insight)}
     <div class="footer">
       Assessment ID: {escape(str(assessment_id))} &middot; AI Cloud Maturity Assessment for Rural MSMEs
     </div>

@@ -1,2 +1,10 @@
 boto3>=1.34
 pytest>=8.0
+
+# Optional: only needed for the ML Profile Match (ml_insights.py). Without these the
+# report still works and simply leaves that section out. Keep scikit-learn at the same
+# version you trained with (`py -m pip show scikit-learn`).
+scikit-learn
+pandas
+numpy
+joblib

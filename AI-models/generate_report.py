@@ -6,12 +6,14 @@ from report_template import render_report_html
 _SAFE_ID = re.compile(r"^[A-Za-z0-9_-]{1,100}$")
 
 
-def generate_report(assessment_id, business_name, business_type, scoring_result, recommendation_result):
+def generate_report(assessment_id, business_name, business_type, scoring_result, recommendation_result, ml_insight=None):
     """
     Main entry point for the report Lambda.
 
     scoring_result: output of run_full_assessment() in scoring.py
     recommendation_result: output of generate_recommendation()
+    ml_insight: optional output of ml_insights.predict_archetype(). If None, the
+                report has no Profile Match section.
 
     Returns {"html": <string>, "filename": <string>}; upload "html" to S3 using
     "filename" as the key. Raises ValueError if assessment_id is not key-safe.
@@ -32,5 +34,6 @@ def generate_report(assessment_id, business_name, business_type, scoring_result,
         next_level=scoring_result.get("nextLevel"),
         quick_wins=scoring_result.get("quickWins"),
         source=recommendation_result.get("source"),
+        ml_insight=ml_insight,
     )
     return {"html": html, "filename": f"reports/{assessment_id}.html"}
