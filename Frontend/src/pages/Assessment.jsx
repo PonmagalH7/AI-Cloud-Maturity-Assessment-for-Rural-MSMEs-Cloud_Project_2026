@@ -80,35 +80,44 @@ const savedProfile = JSON.parse(
   localStorage.getItem("msmeProfile") || "{}"
 );
 
+
 const submission = {
-  responses: {
-    ...answers,
-  },
+  responses: { ...answers },
   business_type: savedProfile.businessType || "",
+  businessName: savedProfile.businessName || "",
+  location: savedProfile.location || "",
+  industry: savedProfile.industry || "",
+  cloudUsage: savedProfile.cloudUsage || "",
 };
+
 
     // Keep a local copy for development/testing.
     localStorage.setItem(
       "assessmentSubmission",
       JSON.stringify(submission)
     );
+    
+try {
+  const result = await submitAssessment(submission);
 
-    try {
-      const result = await submitAssessment(submission);
+  if (!result?.data) {
+    throw new Error("The backend returned no assessment results.");
+  }
 
-      if (result) {
-        localStorage.setItem(
-          "assessmentResult",
-          JSON.stringify(result)
-        );
-      }
-    } catch {
-      // Backend may not be connected yet.
-      // Keep the local submission so the frontend flow continues.
-    } finally {
-      setSubmitting(false);
-      navigate("/results");
-    }
+  localStorage.setItem(
+    "assessmentResult",
+    JSON.stringify(result)
+  );
+
+  navigate("/results");
+} catch (error) {
+  setError(
+    error.message || "Unable to submit the assessment. Please try again."
+  );
+} finally {
+  setSubmitting(false);
+}
+
   };
 
   if (loading) {

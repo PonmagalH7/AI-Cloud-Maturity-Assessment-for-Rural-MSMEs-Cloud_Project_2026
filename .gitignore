@@ -1,0 +1,35 @@
+﻿# Secrets and environment files
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Dependencies and virtual environments
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Build and temporary files
+dist/
+build/
+coverage/
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Credentials and private keys
+*.pem
+*.key
+credentials
+credentials.json
+
+# Local Python environments
+.pytest_cache/
+.mypy_cache/

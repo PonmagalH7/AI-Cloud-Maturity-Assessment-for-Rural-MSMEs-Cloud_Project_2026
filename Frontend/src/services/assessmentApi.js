@@ -1,15 +1,15 @@
+
+import assessmentQuestions from "../data/assessmentQuestions";
 import { apiRequest } from "./api";
 
 export async function getAssessmentQuestions() {
-  return apiRequest("/questions");
+  return assessmentQuestions;
 }
 
-export async function submitAssessment(responses) {
+export async function submitAssessment(submission) {
   return apiRequest("/api/assessments", {
     method: "POST",
-    body: JSON.stringify({
-      responses,
-    }),
+    body: JSON.stringify(submission),
   });
 }
 
