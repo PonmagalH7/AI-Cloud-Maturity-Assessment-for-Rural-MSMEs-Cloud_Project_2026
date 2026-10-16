@@ -1,0 +1,90 @@
+﻿{
+    "Clients":  [
+                    {
+                        "UserPoolId":  "ap-south-1_BQoeXub6X",
+                        "ClientName":  " AI-Cloud-Maturity-Frontend",
+                        "ClientId":  "4t9ijroqmv588ee19hvmvf5s22",
+                        "LastModifiedDate":  "2026-09-19T22:28:52.200000+05:30",
+                        "CreationDate":  "2026-09-19T22:24:32.295000+05:30",
+                        "RefreshTokenValidity":  5,
+                        "AccessTokenValidity":  60,
+                        "IdTokenValidity":  60,
+                        "TokenValidityUnits":  {
+                                                   "AccessToken":  "minutes",
+                                                   "IdToken":  "minutes",
+                                                   "RefreshToken":  "days"
+                                               },
+                        "ExplicitAuthFlows":  [
+                                                  "ALLOW_REFRESH_TOKEN_AUTH",
+                                                  "ALLOW_USER_AUTH",
+                                                  "ALLOW_USER_SRP_AUTH"
+                                              ],
+                        "SupportedIdentityProviders":  [
+                                                           "COGNITO"
+                                                       ],
+                        "CallbackURLs":  [
+                                             "http://localhost:5173/"
+                                         ],
+                        "LogoutURLs":  [
+                                           "http://localhost:5173/"
+                                       ],
+                        "AllowedOAuthFlows":  [
+                                                  "code"
+                                              ],
+                        "AllowedOAuthScopes":  [
+                                                   "email",
+                                                   "openid",
+                                                   "phone"
+                                               ],
+                        "AllowedOAuthFlowsUserPoolClient":  true,
+                        "PreventUserExistenceErrors":  "ENABLED",
+                        "EnableTokenRevocation":  true,
+                        "EnablePropagateAdditionalUserContextData":  false,
+                        "AuthSessionValidity":  3
+                    },
+                    {
+                        "UserPoolId":  "ap-south-1_BQoeXub6X",
+                        "ClientName":  "AI-Cloud-Maturity-App",
+                        "ClientId":  "6rmjfpesfl27cg8siugh07hkh",
+                        "LastModifiedDate":  "2026-09-19T21:46:00.874000+05:30",
+                        "CreationDate":  "2026-09-19T21:15:15.307000+05:30",
+                        "RefreshTokenValidity":  5,
+                        "AccessTokenValidity":  60,
+                        "IdTokenValidity":  60,
+                        "TokenValidityUnits":  {
+                                                   "AccessToken":  "minutes",
+                                                   "IdToken":  "minutes",
+                                                   "RefreshToken":  "days"
+                                               },
+                        "ExplicitAuthFlows":  [
+                                                  "ALLOW_REFRESH_TOKEN_AUTH",
+                                                  "ALLOW_USER_AUTH",
+                                                  "ALLOW_USER_SRP_AUTH"
+                                              ],
+                        "SupportedIdentityProviders":  [
+                                                           "COGNITO"
+                                                       ],
+                        "CallbackURLs":  [
+                                             "http://localhost:5173/"
+                                         ],
+                        "LogoutURLs":  [
+                                           "http://localhost:5173/"
+                                       ],
+                        "DefaultRedirectURI":  "http://localhost:5173/",
+                        "AllowedOAuthFlows":  [
+                                                  "code"
+                                              ],
+                        "AllowedOAuthScopes":  [
+                                                   "email",
+                                                   "openid",
+                                                   "phone"
+                                               ],
+                        "AllowedOAuthFlowsUserPoolClient":  true,
+                        "PreventUserExistenceErrors":  "ENABLED",
+                        "EnableTokenRevocation":  true,
+                        "EnablePropagateAdditionalUserContextData":  false,
+                        "AuthSessionValidity":  3
+                    }
+                ],
+    "UserPoolId":  "ap-south-1_BQoeXub6X"
+}

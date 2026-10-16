@@ -1,0 +1,6 @@
+﻿{
+    "Region":  "ap-south-1",
+    "DynamoDBTable":  "Assessments",
+    "ExportedAtUtc":  "2026-10-16T12:08:27.3256209Z",
+    "CognitoUserPoolId":  "ap-south-1_BQoeXub6X"
+}

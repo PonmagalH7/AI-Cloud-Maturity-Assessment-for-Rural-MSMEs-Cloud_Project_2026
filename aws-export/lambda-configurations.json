@@ -1,0 +1,15 @@
+﻿{
+    "FunctionName":  "generateRecommendation",
+    "FunctionArn":  "arn:aws:lambda:ap-south-1:219712359023:function:generateRecommendation",
+    "Runtime":  "nodejs22.x",
+    "Handler":  "index.handler",
+    "Role":  "arn:aws:iam::219712359023:role/AI-Cloud-Maturity-Recommendation-Lambda-Role",
+    "Timeout":  3,
+    "MemorySize":  128,
+    "Architectures":  [
+                          "x86_64"
+                      ],
+    "Layers":  [
+                   null
+               ]
+}
